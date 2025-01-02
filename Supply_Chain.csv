@@ -1,0 +1,1001 @@
+Order ID,Product Name,Category,Order Date,Shipment Mode,Delivery Time (Days),Order Status,Quantity,Unit Price (USD),Total Value (USD),Location
+ORD1000,Gadget C,Apparel,2023-11-14,Rail,4,Pending,100,259.97,25997.0,Chicago
+ORD1001,Widget A,Electronics,2023-09-18,Rail,1,Delivered,87,188.91,16435.17,Chicago
+ORD1002,Tool D,Electronics,2023-07-13,Air,3,Cancelled,50,113.25,5662.5,New York
+ORD1003,Tool D,Miscellaneous,2023-12-08,Rail,9,Pending,99,344.87,34142.13,Miami
+ORD1004,Widget A,Tools,2023-06-29,Sea,1,Cancelled,97,182.9,17741.3,New York
+ORD1005,Widget B,Furniture,2023-08-29,Sea,6,Delivered,26,256.49,6668.74,Houston
+ORD1006,Gadget C,Tools,2023-04-02,Air,7,In Transit,93,270.58,25163.94,Houston
+ORD1007,Tool D,Apparel,2023-02-06,Air,13,Delivered,61,49.43,3015.23,Houston
+ORD1008,Widget B,Electronics,2023-10-28,Road,7,Pending,25,164.38,4109.5,Chicago
+ORD1009,Widget A,Furniture,2023-09-29,Air,6,Cancelled,20,192.72,3854.4,San Francisco
+ORD1010,Gadget C,Electronics,2023-09-11,Road,2,Cancelled,75,413.77,31032.75,Chicago
+ORD1011,Gadget C,Furniture,2023-11-26,Sea,6,Pending,7,492.86,3450.02,San Francisco
+ORD1012,Widget A,Furniture,2023-01-30,Air,6,In Transit,41,293.72,12042.52,Miami
+ORD1013,Tool D,Tools,2023-10-13,Sea,14,Pending,83,40.75,3382.25,Chicago
+ORD1014,Gadget C,Miscellaneous,2023-01-15,Road,15,Delivered,15,349.56,5243.4,San Francisco
+ORD1015,Item E,Miscellaneous,2023-09-06,Air,15,Delivered,19,243.07,4618.33,Miami
+ORD1016,Widget A,Apparel,2023-11-24,Air,12,Delivered,40,159.16,6366.4,Chicago
+ORD1017,Widget A,Apparel,2023-01-29,Road,10,Cancelled,88,28.76,2530.88,San Francisco
+ORD1018,Widget A,Miscellaneous,2023-10-09,Road,15,Delivered,58,295.48,17137.84,New York
+ORD1019,Gadget C,Electronics,2023-04-15,Rail,13,Delivered,19,425.71,8088.49,Chicago
+ORD1020,Tool D,Electronics,2023-05-11,Rail,11,Delivered,66,249.69,16479.54,San Francisco
+ORD1021,Widget A,Miscellaneous,2023-08-03,Sea,5,Pending,39,483.35,18850.65,Miami
+ORD1022,Widget A,Furniture,2023-06-14,Sea,11,Pending,44,430.74,18952.56,New York
+ORD1023,Widget B,Furniture,2023-04-02,Air,14,Cancelled,17,290.81,4943.77,Chicago
+ORD1024,Widget A,Miscellaneous,2023-12-23,Rail,9,Pending,94,488.29,45899.26,Chicago
+ORD1025,Item E,Tools,2023-09-24,Air,6,In Transit,54,161.8,8737.2,Miami
+ORD1026,Tool D,Tools,2023-06-02,Air,4,Delivered,88,389.83,34305.04,Miami
+ORD1027,Widget B,Furniture,2023-10-07,Sea,15,Cancelled,33,343.26,11327.58,Chicago
+ORD1028,Widget A,Electronics,2023-08-21,Sea,12,In Transit,26,306.96,7980.96,San Francisco
+ORD1029,Widget A,Electronics,2023-07-31,Rail,4,Delivered,77,54.15,4169.55,Miami
+ORD1030,Widget B,Tools,2023-10-13,Road,14,Cancelled,45,233.98,10529.1,Miami
+ORD1031,Item E,Tools,2023-11-14,Rail,12,In Transit,3,192.76,578.28,San Francisco
+ORD1032,Gadget C,Electronics,2023-07-16,Air,12,Pending,72,148.62,10700.64,Houston
+ORD1033,Item E,Miscellaneous,2023-05-09,Sea,4,Pending,17,10.56,179.52,Houston
+ORD1034,Widget A,Apparel,2023-08-05,Sea,15,In Transit,60,97.27,5836.2,San Francisco
+ORD1035,Tool D,Tools,2023-05-27,Sea,8,Pending,76,94.54,7185.04,Chicago
+ORD1036,Widget B,Electronics,2023-02-09,Road,2,Cancelled,11,438.06,4818.66,Miami
+ORD1037,Widget B,Electronics,2023-10-14,Road,3,Delivered,62,33.97,2106.14,San Francisco
+ORD1038,Widget B,Tools,2023-07-20,Road,10,In Transit,99,363.68,36004.32,San Francisco
+ORD1039,Tool D,Apparel,2023-01-16,Road,7,Cancelled,4,445.56,1782.24,Houston
+ORD1040,Widget B,Furniture,2023-05-23,Sea,12,Pending,39,324.65,12661.35,Chicago
+ORD1041,Item E,Furniture,2023-10-25,Air,2,Cancelled,20,332.39,6647.8,Miami
+ORD1042,Tool D,Tools,2023-07-11,Air,14,Cancelled,91,336.31,30604.21,New York
+ORD1043,Gadget C,Apparel,2023-02-19,Road,13,In Transit,39,276.78,10794.42,Miami
+ORD1044,Widget A,Tools,2023-06-30,Sea,3,Cancelled,19,102.39,1945.41,Houston
+ORD1045,Gadget C,Electronics,2023-05-31,Air,8,Cancelled,61,72.02,4393.22,New York
+ORD1046,Widget A,Electronics,2023-02-24,Road,2,Pending,87,171.02,14878.74,Houston
+ORD1047,Widget A,Miscellaneous,2023-07-18,Road,10,Delivered,85,316.88,26934.8,Chicago
+ORD1048,Widget B,Tools,2023-10-04,Rail,3,Delivered,62,420.94,26098.28,Chicago
+ORD1049,Widget A,Miscellaneous,2023-07-31,Sea,12,Delivered,34,248.55,8450.7,Houston
+ORD1050,Item E,Apparel,2023-03-20,Road,5,Cancelled,70,350.85,24559.5,Houston
+ORD1051,Widget A,Tools,2023-06-10,Air,4,Cancelled,22,367.31,8080.82,Houston
+ORD1052,Widget A,Apparel,2023-10-24,Air,8,Pending,94,125.3,11778.2,Chicago
+ORD1053,Tool D,Miscellaneous,2023-12-04,Air,7,In Transit,60,357.56,21453.6,Houston
+ORD1054,Widget B,Electronics,2023-02-08,Road,13,Delivered,50,372.59,18629.5,Houston
+ORD1055,Gadget C,Tools,2023-04-06,Air,6,Cancelled,47,203.95,9585.65,Chicago
+ORD1056,Widget A,Miscellaneous,2023-06-30,Road,5,Delivered,61,168.7,10290.7,Miami
+ORD1057,Gadget C,Miscellaneous,2023-11-21,Road,3,Cancelled,95,337.34,32047.3,Miami
+ORD1058,Item E,Tools,2023-06-24,Air,1,Cancelled,2,423.12,846.24,Houston
+ORD1059,Tool D,Furniture,2023-03-11,Road,5,Cancelled,83,228.01,18924.83,Houston
+ORD1060,Widget A,Electronics,2023-01-17,Sea,7,Pending,64,37.25,2384.0,San Francisco
+ORD1061,Widget B,Furniture,2023-01-17,Sea,10,Delivered,56,426.07,23859.92,San Francisco
+ORD1062,Item E,Furniture,2023-09-09,Road,13,Cancelled,14,490.32,6864.48,Chicago
+ORD1063,Item E,Miscellaneous,2023-05-14,Air,10,In Transit,74,132.29,9789.46,San Francisco
+ORD1064,Item E,Tools,2023-07-07,Road,3,In Transit,22,190.03,4180.66,New York
+ORD1065,Widget A,Miscellaneous,2023-07-10,Rail,1,In Transit,60,281.16,16869.6,San Francisco
+ORD1066,Tool D,Electronics,2023-04-16,Road,14,Cancelled,93,248.8,23138.4,Houston
+ORD1067,Gadget C,Electronics,2023-07-27,Road,7,Pending,41,343.48,14082.68,San Francisco
+ORD1068,Item E,Miscellaneous,2023-11-05,Air,10,Pending,95,395.29,37552.55,New York
+ORD1069,Item E,Furniture,2023-06-03,Air,11,In Transit,97,443.63,43032.11,Miami
+ORD1070,Widget A,Apparel,2023-02-03,Road,12,In Transit,90,226.33,20369.7,Miami
+ORD1071,Tool D,Apparel,2023-07-14,Road,6,Pending,19,159.67,3033.73,Houston
+ORD1072,Item E,Miscellaneous,2023-11-15,Air,2,Pending,84,253.55,21298.2,New York
+ORD1073,Widget A,Miscellaneous,2023-02-04,Rail,3,Delivered,5,368.98,1844.9,San Francisco
+ORD1074,Gadget C,Miscellaneous,2023-09-17,Road,8,Cancelled,34,146.06,4966.04,New York
+ORD1075,Tool D,Electronics,2023-03-18,Rail,7,Cancelled,88,105.7,9301.6,Houston
+ORD1076,Gadget C,Electronics,2023-06-28,Air,4,In Transit,62,445.45,27617.9,Chicago
+ORD1077,Widget A,Tools,2023-08-30,Air,6,Delivered,4,453.31,1813.24,Miami
+ORD1078,Widget A,Miscellaneous,2023-02-28,Road,5,Delivered,46,460.47,21181.62,San Francisco
+ORD1079,Tool D,Furniture,2023-03-03,Air,5,Cancelled,44,98.86,4349.84,New York
+ORD1080,Tool D,Furniture,2023-12-11,Rail,1,Delivered,23,271.41,6242.43,Miami
+ORD1081,Widget B,Tools,2023-03-28,Rail,13,Pending,89,173.73,15461.97,Miami
+ORD1082,Widget B,Electronics,2023-09-25,Road,14,Delivered,36,90.13,3244.68,Houston
+ORD1083,Widget A,Miscellaneous,2023-01-19,Sea,14,Cancelled,67,482.68,32339.56,Chicago
+ORD1084,Widget A,Miscellaneous,2023-04-11,Rail,10,In Transit,43,45.79,1968.97,Chicago
+ORD1085,Tool D,Miscellaneous,2023-02-26,Rail,10,Pending,88,248.32,21852.16,San Francisco
+ORD1086,Tool D,Tools,2023-01-27,Sea,7,Cancelled,27,61.88,1670.76,Chicago
+ORD1087,Tool D,Miscellaneous,2023-06-18,Road,1,Pending,70,193.35,13534.5,Chicago
+ORD1088,Tool D,Furniture,2023-10-17,Sea,2,Cancelled,100,224.06,22406.0,San Francisco
+ORD1089,Widget B,Electronics,2023-02-14,Rail,12,In Transit,73,488.67,35672.91,Miami
+ORD1090,Widget B,Apparel,2023-05-11,Sea,13,Delivered,8,164.37,1314.96,Chicago
+ORD1091,Gadget C,Electronics,2023-01-21,Sea,3,Delivered,26,447.65,11638.9,New York
+ORD1092,Tool D,Electronics,2023-06-05,Air,13,In Transit,9,44.58,401.22,San Francisco
+ORD1093,Widget A,Tools,2023-06-26,Road,3,Cancelled,31,434.45,13467.95,New York
+ORD1094,Gadget C,Tools,2023-07-11,Sea,10,In Transit,83,83.94,6967.02,Miami
+ORD1095,Widget B,Miscellaneous,2023-02-01,Road,7,Delivered,6,284.36,1706.16,San Francisco
+ORD1096,Item E,Electronics,2023-08-26,Road,13,Delivered,81,359.76,29140.56,Miami
+ORD1097,Tool D,Miscellaneous,2023-01-06,Air,7,Delivered,2,315.94,631.88,San Francisco
+ORD1098,Gadget C,Electronics,2023-01-27,Air,13,Pending,9,481.66,4334.94,New York
+ORD1099,Widget B,Electronics,2023-10-18,Road,2,In Transit,47,56.72,2665.84,Houston
+ORD1100,Widget A,Tools,2023-05-17,Air,7,Pending,78,113.24,8832.72,San Francisco
+ORD1101,Item E,Electronics,2023-09-25,Air,3,Delivered,49,299.05,14653.45,Miami
+ORD1102,Tool D,Electronics,2023-03-24,Air,10,Pending,14,294.64,4124.96,San Francisco
+ORD1103,Tool D,Apparel,2023-04-07,Road,4,Delivered,28,353.81,9906.68,Houston
+ORD1104,Widget B,Electronics,2023-09-08,Road,12,Delivered,71,331.26,23519.46,New York
+ORD1105,Widget B,Tools,2023-03-21,Road,7,Pending,5,281.31,1406.55,New York
+ORD1106,Item E,Miscellaneous,2023-09-19,Road,10,In Transit,61,395.58,24130.38,Chicago
+ORD1107,Gadget C,Tools,2023-02-19,Air,6,Cancelled,23,300.3,6906.9,Miami
+ORD1108,Gadget C,Miscellaneous,2023-06-21,Air,2,Pending,59,75.94,4480.46,Houston
+ORD1109,Item E,Miscellaneous,2023-06-15,Road,1,Pending,82,203.67,16700.94,Miami
+ORD1110,Gadget C,Electronics,2023-01-26,Sea,5,In Transit,38,294.66,11197.08,Houston
+ORD1111,Item E,Miscellaneous,2023-08-20,Air,3,Cancelled,27,434.91,11742.57,Chicago
+ORD1112,Gadget C,Tools,2023-01-13,Road,11,Delivered,21,38.16,801.36,Houston
+ORD1113,Widget B,Apparel,2023-04-03,Air,2,Cancelled,25,293.11,7327.75,San Francisco
+ORD1114,Widget B,Electronics,2023-12-26,Air,9,Cancelled,99,54.22,5367.78,Houston
+ORD1115,Tool D,Tools,2023-11-27,Rail,13,Delivered,38,340.78,12949.64,Miami
+ORD1116,Widget B,Tools,2023-09-07,Sea,13,Cancelled,82,331.47,27180.54,Houston
+ORD1117,Widget A,Apparel,2023-07-25,Road,9,Delivered,48,310.05,14882.4,New York
+ORD1118,Widget A,Furniture,2023-11-09,Rail,3,Pending,77,285.6,21991.2,Houston
+ORD1119,Widget A,Apparel,2023-10-25,Air,1,In Transit,54,194.18,10485.72,Miami
+ORD1120,Widget A,Miscellaneous,2023-07-09,Air,7,Pending,18,384.97,6929.46,Houston
+ORD1121,Gadget C,Apparel,2023-11-16,Sea,3,Delivered,36,161.15,5801.4,Chicago
+ORD1122,Widget B,Apparel,2023-10-29,Sea,6,Cancelled,10,399.43,3994.3,New York
+ORD1123,Widget A,Electronics,2023-01-09,Air,2,Delivered,91,68.02,6189.82,Chicago
+ORD1124,Widget B,Miscellaneous,2023-07-16,Sea,15,Cancelled,68,363.03,24686.04,Houston
+ORD1125,Gadget C,Miscellaneous,2023-04-07,Air,9,Delivered,78,205.9,16060.2,Chicago
+ORD1126,Widget B,Miscellaneous,2023-03-04,Rail,4,Delivered,67,97.17,6510.39,Houston
+ORD1127,Widget A,Apparel,2023-12-20,Air,11,Cancelled,3,331.14,993.42,Chicago
+ORD1128,Tool D,Furniture,2023-09-25,Road,12,Pending,12,427.48,5129.76,Miami
+ORD1129,Item E,Tools,2023-12-25,Sea,15,Pending,94,310.99,29233.06,New York
+ORD1130,Gadget C,Electronics,2023-06-30,Air,6,Pending,24,38.61,926.64,Miami
+ORD1131,Tool D,Tools,2023-12-03,Air,9,Cancelled,28,343.43,9616.04,New York
+ORD1132,Item E,Tools,2023-07-28,Rail,7,Cancelled,81,443.46,35920.26,Chicago
+ORD1133,Widget A,Tools,2023-06-27,Road,15,Delivered,31,81.88,2538.28,San Francisco
+ORD1134,Widget A,Apparel,2023-06-08,Road,4,Pending,86,154.94,13324.84,New York
+ORD1135,Widget A,Apparel,2023-02-27,Road,12,Pending,2,180.47,360.94,Miami
+ORD1136,Tool D,Tools,2023-09-23,Rail,15,Delivered,80,69.77,5581.6,Houston
+ORD1137,Widget A,Miscellaneous,2023-12-18,Rail,13,In Transit,34,65.52,2227.68,Miami
+ORD1138,Widget A,Electronics,2023-03-24,Rail,7,Cancelled,82,22.71,1862.22,New York
+ORD1139,Widget A,Tools,2023-06-28,Rail,12,In Transit,44,122.63,5395.72,Houston
+ORD1140,Tool D,Apparel,2023-02-02,Rail,14,Delivered,32,269.61,8627.52,New York
+ORD1141,Widget B,Electronics,2023-01-28,Air,6,Delivered,1,213.38,213.38,Houston
+ORD1142,Widget A,Apparel,2023-12-02,Road,8,In Transit,98,287.01,28126.98,New York
+ORD1143,Item E,Apparel,2023-12-29,Rail,4,In Transit,70,220.75,15452.5,Houston
+ORD1144,Widget B,Furniture,2023-06-09,Rail,6,Delivered,38,456.74,17356.12,Chicago
+ORD1145,Item E,Electronics,2023-08-02,Sea,12,In Transit,80,40.5,3240.0,Miami
+ORD1146,Item E,Tools,2023-09-09,Rail,5,Cancelled,94,391.54,36804.76,Chicago
+ORD1147,Gadget C,Apparel,2023-05-15,Air,6,Delivered,19,100.49,1909.31,San Francisco
+ORD1148,Widget B,Tools,2023-11-10,Air,6,Pending,8,146.33,1170.64,Houston
+ORD1149,Widget B,Apparel,2023-05-13,Air,12,Pending,34,319.2,10852.8,Chicago
+ORD1150,Item E,Tools,2023-01-18,Road,11,Cancelled,45,350.92,15791.4,Chicago
+ORD1151,Gadget C,Electronics,2023-12-24,Air,12,Pending,44,343.44,15111.36,Miami
+ORD1152,Item E,Tools,2023-08-10,Sea,6,In Transit,64,73.47,4702.08,San Francisco
+ORD1153,Widget B,Tools,2023-07-18,Air,4,In Transit,14,289.95,4059.3,San Francisco
+ORD1154,Tool D,Miscellaneous,2023-10-07,Air,12,Pending,31,172.13,5336.03,Miami
+ORD1155,Widget A,Apparel,2023-01-14,Air,5,Cancelled,54,66.23,3576.42,Miami
+ORD1156,Tool D,Tools,2023-10-18,Rail,9,Delivered,80,261.37,20909.6,Chicago
+ORD1157,Widget B,Furniture,2023-09-10,Air,2,Cancelled,88,171.93,15129.84,Houston
+ORD1158,Item E,Furniture,2023-03-04,Rail,12,Pending,88,125.89,11078.32,Miami
+ORD1159,Tool D,Apparel,2023-10-07,Rail,6,Delivered,10,98.67,986.7,San Francisco
+ORD1160,Gadget C,Apparel,2023-04-23,Air,15,In Transit,36,161.75,5823.0,San Francisco
+ORD1161,Tool D,Apparel,2023-04-30,Sea,14,Cancelled,61,415.21,25327.81,Chicago
+ORD1162,Tool D,Tools,2023-01-02,Rail,6,Pending,88,491.56,43257.28,Miami
+ORD1163,Tool D,Electronics,2023-05-05,Rail,3,Delivered,78,282.88,22064.64,Chicago
+ORD1164,Widget A,Miscellaneous,2023-01-22,Sea,9,Pending,88,193.61,17037.68,Miami
+ORD1165,Widget A,Electronics,2023-05-31,Road,11,Cancelled,42,181.53,7624.26,New York
+ORD1166,Widget A,Electronics,2023-09-05,Air,15,In Transit,71,410.19,29123.49,Chicago
+ORD1167,Item E,Electronics,2023-02-12,Air,12,Pending,29,451.73,13100.17,Miami
+ORD1168,Gadget C,Miscellaneous,2023-03-11,Sea,12,In Transit,82,207.04,16977.28,New York
+ORD1169,Tool D,Electronics,2023-10-22,Air,8,In Transit,6,285.52,1713.12,Miami
+ORD1170,Widget A,Electronics,2023-12-18,Road,6,Pending,81,85.4,6917.4,Houston
+ORD1171,Widget A,Furniture,2023-07-12,Road,1,Pending,79,199.62,15769.98,Houston
+ORD1172,Tool D,Miscellaneous,2023-09-24,Rail,6,Cancelled,96,388.71,37316.16,Houston
+ORD1173,Widget A,Furniture,2023-03-27,Rail,3,Cancelled,76,285.78,21719.28,Chicago
+ORD1174,Tool D,Miscellaneous,2023-11-03,Rail,5,Delivered,82,114.59,9396.38,San Francisco
+ORD1175,Tool D,Miscellaneous,2023-11-24,Road,11,In Transit,39,495.26,19315.14,New York
+ORD1176,Widget A,Electronics,2023-02-03,Air,10,In Transit,30,195.87,5876.1,San Francisco
+ORD1177,Widget A,Furniture,2023-08-04,Rail,6,Cancelled,10,114.65,1146.5,Miami
+ORD1178,Widget A,Apparel,2023-10-24,Rail,3,Delivered,23,293.32,6746.36,Houston
+ORD1179,Item E,Tools,2023-05-10,Air,1,In Transit,81,55.89,4527.09,Miami
+ORD1180,Item E,Apparel,2023-05-30,Air,12,Delivered,14,270.61,3788.54,San Francisco
+ORD1181,Gadget C,Tools,2023-02-24,Air,15,Pending,48,296.86,14249.28,San Francisco
+ORD1182,Tool D,Electronics,2023-09-13,Sea,15,In Transit,29,216.14,6268.06,Houston
+ORD1183,Item E,Furniture,2023-02-09,Air,3,Cancelled,70,202.74,14191.8,Miami
+ORD1184,Gadget C,Tools,2023-01-15,Air,5,Pending,66,11.75,775.5,Chicago
+ORD1185,Tool D,Apparel,2023-08-02,Air,1,Cancelled,6,250.58,1503.48,Houston
+ORD1186,Widget A,Apparel,2023-06-24,Sea,8,Cancelled,28,28.74,804.72,Chicago
+ORD1187,Gadget C,Apparel,2023-03-10,Rail,8,Pending,53,476.43,25250.79,Chicago
+ORD1188,Item E,Miscellaneous,2023-05-31,Air,10,In Transit,59,219.52,12951.68,Houston
+ORD1189,Widget B,Electronics,2023-08-03,Road,8,Pending,47,41.89,1968.83,Miami
+ORD1190,Gadget C,Tools,2023-10-24,Sea,1,Pending,93,161.23,14994.39,Miami
+ORD1191,Gadget C,Furniture,2023-08-07,Air,14,Cancelled,48,389.49,18695.52,New York
+ORD1192,Tool D,Tools,2023-12-15,Road,12,Cancelled,22,271.31,5968.82,Miami
+ORD1193,Widget B,Miscellaneous,2023-09-26,Rail,1,Cancelled,80,126.36,10108.8,Miami
+ORD1194,Tool D,Apparel,2023-09-01,Rail,15,Cancelled,96,492.08,47239.68,New York
+ORD1195,Widget B,Miscellaneous,2023-01-20,Sea,3,Cancelled,91,40.94,3725.54,San Francisco
+ORD1196,Item E,Electronics,2023-08-22,Road,2,Pending,94,315.83,29688.02,San Francisco
+ORD1197,Item E,Tools,2023-02-28,Road,2,Delivered,10,453.6,4536.0,Chicago
+ORD1198,Widget A,Tools,2023-08-10,Rail,15,Cancelled,12,47.77,573.24,New York
+ORD1199,Gadget C,Furniture,2023-03-06,Sea,13,In Transit,90,467.67,42090.3,Miami
+ORD1200,Item E,Electronics,2023-09-21,Road,15,Pending,84,305.97,25701.48,New York
+ORD1201,Item E,Electronics,2023-02-09,Rail,5,In Transit,80,145.75,11660.0,Chicago
+ORD1202,Widget A,Tools,2023-05-14,Air,13,Cancelled,3,169.84,509.52,Houston
+ORD1203,Gadget C,Miscellaneous,2023-10-14,Sea,12,Cancelled,44,84.45,3715.8,Chicago
+ORD1204,Item E,Furniture,2023-12-12,Air,4,Cancelled,54,248.39,13413.06,Chicago
+ORD1205,Gadget C,Apparel,2023-06-19,Road,10,Pending,78,123.13,9604.14,Miami
+ORD1206,Widget B,Tools,2023-12-01,Road,9,In Transit,57,400.57,22832.49,Chicago
+ORD1207,Widget B,Miscellaneous,2023-08-23,Air,12,Pending,51,130.84,6672.84,New York
+ORD1208,Widget A,Furniture,2023-04-14,Rail,2,Delivered,22,291.86,6420.92,Miami
+ORD1209,Tool D,Tools,2023-06-10,Road,7,In Transit,82,220.87,18111.34,Miami
+ORD1210,Widget A,Tools,2023-05-30,Rail,10,Cancelled,15,85.45,1281.75,Chicago
+ORD1211,Widget B,Miscellaneous,2023-01-17,Sea,15,Cancelled,1,448.74,448.74,Miami
+ORD1212,Item E,Apparel,2023-07-07,Sea,2,Cancelled,87,483.99,42107.13,New York
+ORD1213,Gadget C,Electronics,2023-02-09,Sea,3,Delivered,70,409.03,28632.1,San Francisco
+ORD1214,Item E,Tools,2023-10-15,Sea,15,Delivered,19,94.1,1787.9,Chicago
+ORD1215,Item E,Electronics,2023-03-12,Air,8,In Transit,47,403.43,18961.21,Chicago
+ORD1216,Gadget C,Apparel,2023-05-08,Sea,13,Pending,30,128.34,3850.2,Houston
+ORD1217,Tool D,Electronics,2023-01-15,Rail,2,In Transit,27,417.71,11278.17,New York
+ORD1218,Widget A,Tools,2023-08-06,Rail,2,Pending,55,466.48,25656.4,Miami
+ORD1219,Gadget C,Electronics,2023-03-05,Air,13,Pending,32,123.08,3938.56,San Francisco
+ORD1220,Gadget C,Miscellaneous,2023-12-12,Sea,6,Cancelled,9,145.49,1309.41,Chicago
+ORD1221,Item E,Apparel,2023-10-16,Road,14,Pending,11,205.13,2256.43,Chicago
+ORD1222,Widget A,Miscellaneous,2023-11-30,Sea,8,In Transit,55,160.45,8824.75,New York
+ORD1223,Tool D,Electronics,2023-04-26,Sea,11,In Transit,43,58.33,2508.19,Chicago
+ORD1224,Widget B,Apparel,2023-03-27,Road,12,Cancelled,61,92.0,5612.0,Miami
+ORD1225,Item E,Tools,2023-05-29,Sea,10,Cancelled,47,495.09,23269.23,San Francisco
+ORD1226,Widget A,Miscellaneous,2023-01-12,Sea,11,Pending,1,109.04,109.04,Chicago
+ORD1227,Tool D,Electronics,2023-08-19,Sea,14,Delivered,42,183.62,7712.04,Miami
+ORD1228,Gadget C,Apparel,2023-04-02,Rail,11,Cancelled,100,157.58,15758.0,Miami
+ORD1229,Gadget C,Furniture,2023-07-07,Air,2,Cancelled,69,179.68,12397.92,Chicago
+ORD1230,Item E,Furniture,2023-01-23,Sea,1,In Transit,29,499.14,14475.06,New York
+ORD1231,Item E,Apparel,2023-06-23,Road,15,Delivered,5,242.82,1214.1,New York
+ORD1232,Widget B,Furniture,2023-05-22,Sea,2,In Transit,5,34.57,172.85,Houston
+ORD1233,Item E,Electronics,2023-05-17,Rail,3,Delivered,79,325.08,25681.32,Chicago
+ORD1234,Item E,Miscellaneous,2023-10-18,Sea,1,Delivered,36,383.37,13801.32,New York
+ORD1235,Widget B,Electronics,2023-08-04,Road,6,In Transit,51,97.48,4971.48,New York
+ORD1236,Widget A,Miscellaneous,2023-06-05,Road,9,Delivered,21,461.97,9701.37,Houston
+ORD1237,Item E,Electronics,2023-02-25,Air,6,Delivered,71,17.55,1246.05,Houston
+ORD1238,Gadget C,Furniture,2023-12-29,Rail,13,Delivered,79,27.89,2203.31,San Francisco
+ORD1239,Gadget C,Apparel,2023-06-20,Sea,11,Pending,22,476.63,10485.86,New York
+ORD1240,Widget B,Electronics,2023-03-01,Sea,12,Pending,52,467.7,24320.4,New York
+ORD1241,Gadget C,Miscellaneous,2023-05-11,Air,15,Cancelled,89,131.13,11670.57,New York
+ORD1242,Item E,Electronics,2023-04-06,Sea,1,Delivered,95,58.3,5538.5,New York
+ORD1243,Item E,Furniture,2023-03-01,Road,4,Pending,25,484.51,12112.75,New York
+ORD1244,Item E,Apparel,2023-03-15,Air,4,Cancelled,67,408.55,27372.85,San Francisco
+ORD1245,Gadget C,Tools,2023-07-31,Sea,6,Cancelled,22,307.59,6766.98,Miami
+ORD1246,Widget B,Furniture,2023-10-15,Rail,13,Delivered,80,429.32,34345.6,Houston
+ORD1247,Tool D,Miscellaneous,2023-10-27,Rail,4,Cancelled,49,370.03,18131.47,Miami
+ORD1248,Gadget C,Electronics,2023-12-26,Air,8,In Transit,33,34.47,1137.51,Houston
+ORD1249,Widget A,Miscellaneous,2023-12-18,Air,4,Delivered,20,383.72,7674.4,San Francisco
+ORD1250,Widget B,Miscellaneous,2023-11-14,Air,1,In Transit,29,29.33,850.57,Miami
+ORD1251,Tool D,Furniture,2023-11-19,Rail,4,Pending,20,136.39,2727.8,Chicago
+ORD1252,Gadget C,Furniture,2023-08-16,Sea,5,Delivered,83,348.05,28888.15,New York
+ORD1253,Tool D,Tools,2023-04-16,Rail,4,Delivered,93,149.92,13942.56,Miami
+ORD1254,Tool D,Miscellaneous,2023-10-26,Road,1,Delivered,65,76.91,4999.15,San Francisco
+ORD1255,Gadget C,Electronics,2023-08-20,Road,9,In Transit,11,163.93,1803.23,Chicago
+ORD1256,Gadget C,Electronics,2023-12-24,Air,7,Cancelled,2,477.39,954.78,San Francisco
+ORD1257,Gadget C,Miscellaneous,2023-06-12,Road,10,Delivered,7,204.54,1431.78,New York
+ORD1258,Widget A,Apparel,2023-12-23,Road,9,Delivered,44,115.37,5076.28,New York
+ORD1259,Tool D,Tools,2023-02-05,Rail,6,Pending,64,496.55,31779.2,Houston
+ORD1260,Gadget C,Apparel,2023-04-07,Rail,14,Delivered,12,167.59,2011.08,Miami
+ORD1261,Item E,Furniture,2023-07-01,Rail,6,Cancelled,38,63.02,2394.76,San Francisco
+ORD1262,Gadget C,Apparel,2023-01-21,Air,4,Delivered,47,394.16,18525.52,Miami
+ORD1263,Widget A,Miscellaneous,2023-08-15,Rail,13,Pending,1,178.81,178.81,San Francisco
+ORD1264,Gadget C,Furniture,2023-06-20,Road,12,In Transit,9,342.78,3085.02,New York
+ORD1265,Item E,Tools,2023-03-26,Road,12,Pending,33,224.76,7417.08,Miami
+ORD1266,Item E,Miscellaneous,2023-07-07,Rail,4,Pending,74,484.09,35822.66,Chicago
+ORD1267,Tool D,Furniture,2023-01-14,Sea,1,Pending,85,206.76,17574.6,New York
+ORD1268,Widget A,Apparel,2023-02-22,Rail,2,Delivered,98,417.72,40936.56,San Francisco
+ORD1269,Tool D,Furniture,2023-11-20,Rail,14,Delivered,10,16.95,169.5,Houston
+ORD1270,Widget B,Electronics,2023-05-27,Sea,7,Pending,34,237.58,8077.72,San Francisco
+ORD1271,Gadget C,Tools,2023-06-29,Road,10,Delivered,5,97.56,487.8,New York
+ORD1272,Item E,Miscellaneous,2023-02-06,Road,9,Delivered,32,474.66,15189.12,Miami
+ORD1273,Gadget C,Miscellaneous,2023-04-30,Air,6,Pending,67,41.39,2773.13,New York
+ORD1274,Gadget C,Miscellaneous,2023-10-25,Sea,12,In Transit,59,146.82,8662.38,Houston
+ORD1275,Widget B,Apparel,2023-07-16,Air,15,Cancelled,29,410.26,11897.54,Chicago
+ORD1276,Widget B,Furniture,2023-10-12,Road,6,Cancelled,14,24.85,347.9,Houston
+ORD1277,Tool D,Tools,2023-08-14,Sea,6,Pending,17,289.63,4923.71,Miami
+ORD1278,Widget A,Miscellaneous,2023-04-11,Rail,11,In Transit,59,214.97,12683.23,Houston
+ORD1279,Widget A,Furniture,2023-03-22,Road,3,Delivered,26,390.36,10149.36,Chicago
+ORD1280,Widget A,Electronics,2023-01-05,Air,1,Pending,87,466.37,40574.19,New York
+ORD1281,Tool D,Electronics,2023-05-04,Air,10,In Transit,98,70.68,6926.64,Chicago
+ORD1282,Widget A,Furniture,2023-09-09,Sea,6,Pending,49,115.65,5666.85,Miami
+ORD1283,Gadget C,Furniture,2023-03-31,Rail,7,In Transit,41,266.45,10924.45,San Francisco
+ORD1284,Item E,Electronics,2023-11-22,Air,12,In Transit,59,78.07,4606.13,Chicago
+ORD1285,Tool D,Electronics,2023-03-02,Rail,9,In Transit,88,331.23,29148.24,Miami
+ORD1286,Widget A,Electronics,2023-11-14,Road,12,Cancelled,19,23.77,451.63,New York
+ORD1287,Gadget C,Furniture,2023-11-30,Sea,6,Delivered,84,46.78,3929.52,Miami
+ORD1288,Widget A,Electronics,2023-05-14,Rail,15,Delivered,20,466.15,9323.0,Miami
+ORD1289,Gadget C,Miscellaneous,2023-05-24,Road,6,Delivered,100,350.45,35045.0,San Francisco
+ORD1290,Tool D,Furniture,2023-08-03,Rail,5,Cancelled,5,465.19,2325.95,Chicago
+ORD1291,Widget A,Miscellaneous,2023-10-29,Rail,10,Cancelled,26,361.74,9405.24,San Francisco
+ORD1292,Item E,Miscellaneous,2023-12-04,Rail,15,In Transit,78,363.05,28317.9,New York
+ORD1293,Widget A,Electronics,2023-10-29,Air,9,In Transit,83,348.49,28924.67,New York
+ORD1294,Widget A,Electronics,2023-12-08,Sea,13,Pending,28,418.3,11712.4,New York
+ORD1295,Gadget C,Furniture,2023-10-15,Road,14,Pending,10,237.71,2377.1,New York
+ORD1296,Tool D,Apparel,2023-07-28,Sea,12,In Transit,52,336.9,17518.8,Chicago
+ORD1297,Item E,Electronics,2023-07-10,Air,2,In Transit,88,125.53,11046.64,Houston
+ORD1298,Widget B,Electronics,2023-09-20,Air,11,Delivered,72,299.96,21597.12,Chicago
+ORD1299,Tool D,Furniture,2023-08-12,Rail,15,Cancelled,78,248.89,19413.42,Houston
+ORD1300,Tool D,Tools,2023-01-11,Rail,8,Cancelled,52,384.15,19975.8,Houston
+ORD1301,Tool D,Apparel,2023-10-15,Sea,5,In Transit,1,290.89,290.89,Miami
+ORD1302,Gadget C,Apparel,2023-08-14,Rail,6,Pending,5,260.21,1301.05,Miami
+ORD1303,Gadget C,Apparel,2023-08-10,Road,5,Delivered,86,190.81,16409.66,Houston
+ORD1304,Tool D,Miscellaneous,2023-04-06,Road,1,Cancelled,2,318.39,636.78,New York
+ORD1305,Widget A,Tools,2023-03-01,Air,3,Delivered,48,209.85,10072.8,Chicago
+ORD1306,Widget B,Miscellaneous,2023-09-22,Sea,2,Pending,94,45.64,4290.16,Miami
+ORD1307,Widget B,Furniture,2023-06-28,Rail,13,In Transit,19,155.55,2955.45,New York
+ORD1308,Widget A,Furniture,2023-09-03,Road,13,Cancelled,87,319.57,27802.59,Houston
+ORD1309,Tool D,Tools,2023-06-09,Rail,5,In Transit,92,371.43,34171.56,San Francisco
+ORD1310,Gadget C,Miscellaneous,2023-12-22,Road,12,Delivered,23,385.3,8861.9,New York
+ORD1311,Item E,Furniture,2023-04-28,Road,5,In Transit,75,296.35,22226.25,Chicago
+ORD1312,Gadget C,Tools,2023-06-02,Air,9,In Transit,14,181.97,2547.58,San Francisco
+ORD1313,Widget A,Miscellaneous,2023-03-27,Sea,3,Pending,4,191.19,764.76,Miami
+ORD1314,Widget B,Apparel,2023-12-27,Air,3,Delivered,5,69.37,346.85,San Francisco
+ORD1315,Gadget C,Tools,2023-03-17,Rail,2,In Transit,70,62.36,4365.2,Miami
+ORD1316,Widget B,Apparel,2023-01-30,Rail,15,Pending,87,78.92,6866.04,Chicago
+ORD1317,Widget A,Furniture,2023-04-09,Sea,7,In Transit,19,31.79,604.01,New York
+ORD1318,Widget A,Furniture,2023-03-21,Air,10,Pending,92,269.71,24813.32,San Francisco
+ORD1319,Tool D,Furniture,2023-12-16,Road,14,Pending,10,283.44,2834.4,Chicago
+ORD1320,Item E,Apparel,2023-09-13,Air,14,Cancelled,76,94.84,7207.84,Miami
+ORD1321,Item E,Tools,2023-05-25,Sea,13,Cancelled,98,103.69,10161.62,Chicago
+ORD1322,Widget B,Furniture,2023-03-12,Air,11,In Transit,53,474.32,25138.96,New York
+ORD1323,Item E,Tools,2023-12-21,Sea,14,Cancelled,78,190.83,14884.74,New York
+ORD1324,Gadget C,Furniture,2023-11-13,Road,9,Pending,17,59.65,1014.05,San Francisco
+ORD1325,Tool D,Tools,2023-01-20,Air,12,In Transit,85,399.39,33948.15,San Francisco
+ORD1326,Item E,Apparel,2023-04-27,Air,2,In Transit,3,343.56,1030.68,Chicago
+ORD1327,Widget A,Furniture,2023-04-28,Air,4,Cancelled,92,157.59,14498.28,Miami
+ORD1328,Item E,Apparel,2023-11-17,Air,9,Pending,27,191.11,5159.97,New York
+ORD1329,Widget B,Tools,2023-07-24,Road,15,Cancelled,69,27.58,1903.02,Chicago
+ORD1330,Item E,Electronics,2023-10-17,Road,10,Delivered,72,219.36,15793.92,Chicago
+ORD1331,Tool D,Furniture,2023-05-25,Rail,10,In Transit,91,498.32,45347.12,Miami
+ORD1332,Item E,Apparel,2023-08-12,Road,12,Delivered,56,147.51,8260.56,Miami
+ORD1333,Gadget C,Furniture,2023-08-04,Sea,6,Delivered,23,413.92,9520.16,Miami
+ORD1334,Tool D,Furniture,2023-07-10,Road,14,Pending,10,46.99,469.9,Houston
+ORD1335,Item E,Miscellaneous,2023-01-18,Air,6,Delivered,48,264.81,12710.88,Chicago
+ORD1336,Gadget C,Tools,2023-09-10,Air,7,Delivered,62,220.55,13674.1,New York
+ORD1337,Widget A,Electronics,2023-06-30,Rail,7,Cancelled,64,219.46,14045.44,Houston
+ORD1338,Widget B,Furniture,2023-05-21,Sea,9,Pending,12,332.9,3994.8,New York
+ORD1339,Item E,Furniture,2023-03-10,Rail,13,Pending,95,242.76,23062.2,Houston
+ORD1340,Widget A,Apparel,2023-11-12,Sea,5,In Transit,12,224.96,2699.52,Chicago
+ORD1341,Widget A,Furniture,2023-02-17,Road,6,Pending,35,245.3,8585.5,Miami
+ORD1342,Widget A,Apparel,2023-07-09,Rail,12,Cancelled,21,277.88,5835.48,Miami
+ORD1343,Tool D,Miscellaneous,2023-09-23,Sea,13,Delivered,5,165.76,828.8,San Francisco
+ORD1344,Tool D,Electronics,2023-12-31,Air,13,Pending,62,435.05,26973.1,Chicago
+ORD1345,Widget A,Apparel,2023-11-29,Road,12,Delivered,18,207.66,3737.88,Houston
+ORD1346,Widget A,Apparel,2023-02-02,Sea,10,Delivered,71,14.17,1006.07,Miami
+ORD1347,Item E,Miscellaneous,2023-03-07,Sea,11,In Transit,73,198.49,14489.77,Miami
+ORD1348,Widget A,Apparel,2023-08-16,Air,14,In Transit,65,379.68,24679.2,Houston
+ORD1349,Item E,Miscellaneous,2023-04-09,Air,7,Pending,6,123.31,739.86,New York
+ORD1350,Item E,Furniture,2023-11-06,Rail,7,In Transit,96,92.98,8926.08,Miami
+ORD1351,Tool D,Tools,2023-06-14,Rail,12,Pending,93,273.16,25403.88,New York
+ORD1352,Widget B,Tools,2023-11-18,Road,1,In Transit,70,187.57,13129.9,Miami
+ORD1353,Widget A,Apparel,2023-10-05,Road,14,In Transit,57,72.79,4149.03,Chicago
+ORD1354,Gadget C,Furniture,2023-01-16,Air,3,Pending,24,273.34,6560.16,Houston
+ORD1355,Widget B,Apparel,2023-07-19,Road,6,In Transit,20,312.63,6252.6,New York
+ORD1356,Widget A,Furniture,2023-08-11,Rail,3,In Transit,14,456.48,6390.72,Houston
+ORD1357,Tool D,Apparel,2023-04-15,Rail,8,Cancelled,64,164.44,10524.16,Chicago
+ORD1358,Widget B,Furniture,2023-06-18,Sea,1,Delivered,33,14.12,465.96,San Francisco
+ORD1359,Tool D,Furniture,2023-06-17,Road,6,In Transit,36,276.05,9937.8,Chicago
+ORD1360,Gadget C,Furniture,2023-02-26,Air,3,Delivered,48,135.3,6494.4,Chicago
+ORD1361,Item E,Tools,2023-11-12,Sea,6,Cancelled,17,15.92,270.64,Chicago
+ORD1362,Tool D,Apparel,2023-09-20,Road,2,In Transit,14,403.25,5645.5,Miami
+ORD1363,Gadget C,Apparel,2023-11-25,Road,8,Pending,65,487.91,31714.15,San Francisco
+ORD1364,Item E,Miscellaneous,2023-04-11,Sea,10,Delivered,15,311.07,4666.05,Miami
+ORD1365,Tool D,Electronics,2023-10-17,Sea,2,Delivered,78,78.41,6115.98,Houston
+ORD1366,Tool D,Miscellaneous,2023-01-07,Road,8,Pending,65,331.76,21564.4,Chicago
+ORD1367,Widget B,Tools,2023-11-15,Road,8,Pending,6,76.14,456.84,Chicago
+ORD1368,Widget B,Electronics,2023-09-28,Road,13,Delivered,15,438.45,6576.75,Houston
+ORD1369,Gadget C,Electronics,2023-12-31,Road,10,Delivered,33,317.4,10474.2,Chicago
+ORD1370,Widget A,Tools,2023-08-18,Air,4,In Transit,62,234.21,14521.02,San Francisco
+ORD1371,Gadget C,Furniture,2023-04-23,Road,6,Delivered,91,188.21,17127.11,Chicago
+ORD1372,Widget B,Tools,2023-07-03,Air,2,In Transit,23,164.48,3783.04,New York
+ORD1373,Widget A,Furniture,2023-05-14,Rail,7,In Transit,50,424.83,21241.5,Chicago
+ORD1374,Widget A,Tools,2023-01-12,Rail,11,Cancelled,24,460.89,11061.36,Miami
+ORD1375,Item E,Electronics,2023-06-20,Rail,5,Pending,83,125.85,10445.55,San Francisco
+ORD1376,Tool D,Miscellaneous,2023-04-27,Air,15,Delivered,13,162.53,2112.89,Houston
+ORD1377,Widget A,Apparel,2023-07-20,Rail,5,Pending,62,417.94,25912.28,Houston
+ORD1378,Widget A,Tools,2023-12-17,Rail,13,Pending,13,303.65,3947.45,Chicago
+ORD1379,Tool D,Electronics,2023-07-24,Sea,11,Pending,48,265.88,12762.24,San Francisco
+ORD1380,Item E,Apparel,2023-05-23,Road,10,Cancelled,97,334.98,32493.06,Houston
+ORD1381,Widget B,Electronics,2023-06-17,Air,4,Delivered,46,356.08,16379.68,Miami
+ORD1382,Widget B,Furniture,2023-02-13,Air,7,Pending,17,70.43,1197.31,Miami
+ORD1383,Tool D,Tools,2023-10-21,Rail,3,Delivered,60,161.37,9682.2,San Francisco
+ORD1384,Item E,Electronics,2023-09-01,Rail,9,In Transit,22,427.83,9412.26,Houston
+ORD1385,Gadget C,Furniture,2023-05-12,Road,4,Delivered,13,300.04,3900.52,New York
+ORD1386,Widget A,Tools,2023-03-17,Air,10,In Transit,6,225.41,1352.46,Houston
+ORD1387,Widget B,Tools,2023-12-20,Rail,15,In Transit,43,267.26,11492.18,Miami
+ORD1388,Widget B,Furniture,2023-01-27,Road,10,Delivered,3,152.07,456.21,New York
+ORD1389,Widget A,Electronics,2023-01-19,Rail,8,Delivered,33,229.8,7583.4,Chicago
+ORD1390,Gadget C,Tools,2023-01-31,Sea,13,Pending,21,256.68,5390.28,New York
+ORD1391,Item E,Apparel,2023-07-22,Rail,1,In Transit,51,124.32,6340.32,Chicago
+ORD1392,Widget B,Furniture,2023-09-30,Rail,3,In Transit,32,166.77,5336.64,Miami
+ORD1393,Widget B,Miscellaneous,2023-07-31,Sea,11,Delivered,63,355.74,22411.62,Houston
+ORD1394,Widget B,Tools,2023-09-21,Road,11,Cancelled,64,463.02,29633.28,Houston
+ORD1395,Widget A,Electronics,2023-06-28,Sea,7,Delivered,47,427.72,20102.84,San Francisco
+ORD1396,Widget B,Tools,2023-05-31,Air,7,Cancelled,45,16.36,736.2,New York
+ORD1397,Item E,Tools,2023-06-15,Road,5,Delivered,67,193.84,12987.28,Miami
+ORD1398,Tool D,Electronics,2023-05-23,Sea,11,Pending,19,181.74,3453.06,Miami
+ORD1399,Widget B,Tools,2023-02-14,Sea,13,Pending,98,140.68,13786.64,New York
+ORD1400,Tool D,Miscellaneous,2023-07-06,Sea,15,Pending,10,498.26,4982.6,Chicago
+ORD1401,Tool D,Furniture,2023-06-19,Air,2,Delivered,8,120.75,966.0,New York
+ORD1402,Widget B,Electronics,2023-10-01,Sea,2,In Transit,33,197.06,6502.98,Houston
+ORD1403,Tool D,Electronics,2023-10-16,Road,9,In Transit,63,208.68,13146.84,Houston
+ORD1404,Item E,Furniture,2023-02-13,Rail,13,In Transit,91,363.67,33093.97,San Francisco
+ORD1405,Widget B,Electronics,2023-06-22,Sea,11,Cancelled,7,476.76,3337.32,Houston
+ORD1406,Gadget C,Apparel,2023-10-15,Air,14,Cancelled,30,49.07,1472.1,Chicago
+ORD1407,Widget B,Miscellaneous,2023-10-11,Rail,12,In Transit,83,159.58,13245.14,New York
+ORD1408,Tool D,Apparel,2023-02-06,Air,4,Cancelled,17,379.55,6452.35,Houston
+ORD1409,Widget A,Electronics,2023-03-13,Sea,6,In Transit,9,222.81,2005.29,Chicago
+ORD1410,Gadget C,Apparel,2023-05-27,Sea,14,Pending,86,196.91,16934.26,New York
+ORD1411,Item E,Miscellaneous,2023-12-02,Sea,7,Delivered,95,195.83,18603.85,Chicago
+ORD1412,Tool D,Apparel,2023-04-13,Rail,1,In Transit,50,378.2,18910.0,Houston
+ORD1413,Gadget C,Apparel,2023-02-15,Sea,7,Delivered,85,459.48,39055.8,San Francisco
+ORD1414,Tool D,Electronics,2023-04-12,Road,6,Pending,94,335.59,31545.46,San Francisco
+ORD1415,Widget A,Tools,2023-10-19,Sea,4,Cancelled,65,73.59,4783.35,Chicago
+ORD1416,Gadget C,Electronics,2023-10-20,Road,8,In Transit,47,465.29,21868.63,Houston
+ORD1417,Item E,Miscellaneous,2023-08-31,Sea,1,Cancelled,87,474.66,41295.42,New York
+ORD1418,Widget B,Miscellaneous,2023-04-11,Rail,4,Pending,54,144.42,7798.68,Miami
+ORD1419,Item E,Miscellaneous,2023-04-28,Air,4,Cancelled,35,156.26,5469.1,Miami
+ORD1420,Tool D,Furniture,2023-12-25,Air,6,In Transit,67,219.96,14737.32,Miami
+ORD1421,Tool D,Miscellaneous,2023-01-31,Sea,3,Pending,32,236.25,7560.0,Chicago
+ORD1422,Widget B,Miscellaneous,2023-03-20,Rail,11,In Transit,42,342.87,14400.54,San Francisco
+ORD1423,Tool D,Apparel,2023-01-20,Air,3,Delivered,43,363.12,15614.16,San Francisco
+ORD1424,Gadget C,Apparel,2023-05-07,Rail,11,Cancelled,97,202.38,19630.86,Chicago
+ORD1425,Widget B,Miscellaneous,2023-12-23,Road,5,Cancelled,40,481.06,19242.4,Chicago
+ORD1426,Item E,Tools,2023-11-07,Rail,4,Pending,8,216.5,1732.0,Miami
+ORD1427,Item E,Apparel,2023-03-22,Air,13,Delivered,53,195.5,10361.5,San Francisco
+ORD1428,Item E,Miscellaneous,2023-04-07,Road,9,Cancelled,78,70.48,5497.44,San Francisco
+ORD1429,Gadget C,Apparel,2023-07-29,Rail,15,Cancelled,89,335.42,29852.38,New York
+ORD1430,Item E,Tools,2023-12-26,Sea,4,Pending,65,60.36,3923.4,New York
+ORD1431,Widget A,Miscellaneous,2023-08-13,Rail,13,Delivered,81,145.13,11755.53,Chicago
+ORD1432,Tool D,Electronics,2023-12-04,Road,9,Delivered,77,224.31,17271.87,San Francisco
+ORD1433,Widget B,Furniture,2023-04-24,Road,15,Delivered,85,459.24,39035.4,Houston
+ORD1434,Tool D,Tools,2023-01-03,Air,7,Delivered,72,417.57,30065.04,Chicago
+ORD1435,Widget B,Electronics,2023-06-17,Sea,6,In Transit,76,323.79,24608.04,Miami
+ORD1436,Tool D,Apparel,2023-06-01,Rail,3,Delivered,39,132.2,5155.8,New York
+ORD1437,Widget A,Furniture,2023-03-12,Road,7,Delivered,17,374.06,6359.02,Houston
+ORD1438,Widget A,Miscellaneous,2023-01-15,Air,9,In Transit,18,140.23,2524.14,Chicago
+ORD1439,Tool D,Apparel,2023-11-26,Rail,8,In Transit,32,60.66,1941.12,Chicago
+ORD1440,Tool D,Tools,2023-03-25,Road,10,In Transit,31,289.09,8961.79,Miami
+ORD1441,Widget B,Electronics,2023-09-14,Road,9,In Transit,74,447.83,33139.42,San Francisco
+ORD1442,Gadget C,Miscellaneous,2023-10-11,Sea,11,In Transit,61,37.66,2297.26,Miami
+ORD1443,Gadget C,Tools,2023-10-31,Road,4,In Transit,82,417.42,34228.44,New York
+ORD1444,Widget B,Apparel,2023-07-29,Sea,13,Pending,91,127.33,11587.03,Miami
+ORD1445,Gadget C,Electronics,2023-03-08,Sea,1,Cancelled,61,216.17,13186.37,San Francisco
+ORD1446,Widget A,Miscellaneous,2023-08-30,Road,3,Pending,17,337.87,5743.79,Miami
+ORD1447,Item E,Miscellaneous,2023-10-27,Sea,14,Delivered,57,139.08,7927.56,San Francisco
+ORD1448,Gadget C,Miscellaneous,2023-07-29,Air,7,In Transit,35,277.66,9718.1,San Francisco
+ORD1449,Tool D,Electronics,2023-08-14,Road,1,Delivered,38,131.42,4993.96,Chicago
+ORD1450,Widget A,Miscellaneous,2023-01-07,Road,2,Cancelled,81,293.97,23811.57,Chicago
+ORD1451,Widget B,Apparel,2023-05-30,Road,13,In Transit,88,188.12,16554.56,Houston
+ORD1452,Gadget C,Electronics,2023-11-07,Sea,15,Pending,22,23.88,525.36,New York
+ORD1453,Widget B,Furniture,2023-06-15,Sea,2,In Transit,89,362.4,32253.6,Chicago
+ORD1454,Widget A,Electronics,2023-11-13,Air,3,Delivered,52,192.34,10001.68,New York
+ORD1455,Widget A,Furniture,2023-11-13,Rail,7,In Transit,91,131.9,12002.9,Houston
+ORD1456,Item E,Tools,2023-11-30,Air,11,Delivered,72,404.83,29147.76,Miami
+ORD1457,Gadget C,Tools,2023-02-02,Air,8,Delivered,33,402.75,13290.75,New York
+ORD1458,Gadget C,Electronics,2023-05-21,Rail,5,Cancelled,100,70.1,7010.0,Houston
+ORD1459,Item E,Tools,2023-10-08,Rail,15,Cancelled,67,176.65,11835.55,Miami
+ORD1460,Tool D,Apparel,2023-02-07,Road,8,Cancelled,68,270.49,18393.32,San Francisco
+ORD1461,Tool D,Furniture,2023-06-26,Sea,13,Delivered,91,400.56,36450.96,San Francisco
+ORD1462,Item E,Apparel,2023-11-24,Air,15,In Transit,72,419.32,30191.04,New York
+ORD1463,Gadget C,Furniture,2023-10-16,Sea,2,Delivered,64,104.9,6713.6,Houston
+ORD1464,Item E,Miscellaneous,2023-08-09,Rail,4,Cancelled,49,137.41,6733.09,Miami
+ORD1465,Widget A,Tools,2023-07-29,Sea,11,Delivered,40,102.07,4082.8,Houston
+ORD1466,Gadget C,Apparel,2023-02-16,Air,5,Delivered,45,355.74,16008.3,New York
+ORD1467,Tool D,Apparel,2023-11-13,Sea,15,Pending,31,278.82,8643.42,Houston
+ORD1468,Widget A,Tools,2023-06-13,Sea,14,Pending,21,485.32,10191.72,San Francisco
+ORD1469,Gadget C,Miscellaneous,2023-08-03,Sea,9,Pending,74,397.09,29384.66,San Francisco
+ORD1470,Tool D,Furniture,2023-01-16,Air,13,Cancelled,19,144.71,2749.49,Miami
+ORD1471,Item E,Electronics,2023-10-29,Sea,2,Delivered,90,103.76,9338.4,Chicago
+ORD1472,Gadget C,Furniture,2023-04-28,Sea,6,Delivered,72,192.35,13849.2,San Francisco
+ORD1473,Widget B,Tools,2023-07-20,Road,11,Cancelled,5,74.99,374.95,New York
+ORD1474,Tool D,Furniture,2023-04-04,Sea,6,Cancelled,89,130.73,11634.97,Chicago
+ORD1475,Item E,Furniture,2023-04-12,Rail,6,In Transit,51,171.51,8747.01,New York
+ORD1476,Tool D,Electronics,2023-05-04,Air,1,Cancelled,79,473.37,37396.23,New York
+ORD1477,Item E,Electronics,2023-02-17,Air,2,Pending,15,306.65,4599.75,Miami
+ORD1478,Gadget C,Tools,2023-04-27,Rail,11,Cancelled,93,398.2,37032.6,New York
+ORD1479,Tool D,Electronics,2023-11-04,Road,3,Delivered,39,70.61,2753.79,San Francisco
+ORD1480,Item E,Apparel,2023-01-14,Road,11,Delivered,100,288.08,28808.0,Houston
+ORD1481,Widget B,Furniture,2023-06-28,Sea,5,In Transit,55,215.1,11830.5,San Francisco
+ORD1482,Widget B,Electronics,2023-02-02,Air,11,Delivered,88,180.02,15841.76,San Francisco
+ORD1483,Widget B,Apparel,2023-10-20,Road,7,Delivered,49,170.23,8341.27,San Francisco
+ORD1484,Widget A,Tools,2023-05-25,Air,7,Cancelled,25,496.5,12412.5,New York
+ORD1485,Gadget C,Tools,2023-03-19,Sea,7,Pending,83,248.71,20642.93,Miami
+ORD1486,Widget A,Tools,2023-07-11,Sea,9,Delivered,47,61.02,2867.94,New York
+ORD1487,Gadget C,Tools,2023-07-06,Sea,5,Delivered,27,38.9,1050.3,Chicago
+ORD1488,Gadget C,Electronics,2023-04-01,Sea,9,In Transit,83,451.22,37451.26,San Francisco
+ORD1489,Item E,Electronics,2023-06-12,Sea,11,Cancelled,94,160.02,15041.88,New York
+ORD1490,Gadget C,Miscellaneous,2023-12-09,Rail,7,In Transit,91,377.25,34329.75,Miami
+ORD1491,Widget B,Tools,2023-01-21,Road,2,Pending,20,54.73,1094.6,Chicago
+ORD1492,Item E,Apparel,2023-10-13,Road,4,Pending,99,348.98,34549.02,San Francisco
+ORD1493,Gadget C,Miscellaneous,2023-04-03,Rail,9,In Transit,31,125.28,3883.68,Miami
+ORD1494,Tool D,Electronics,2023-11-25,Rail,10,In Transit,76,429.85,32668.6,Chicago
+ORD1495,Tool D,Tools,2023-09-15,Road,14,Pending,19,357.58,6794.02,San Francisco
+ORD1496,Gadget C,Apparel,2023-09-03,Road,10,Delivered,11,269.84,2968.24,Miami
+ORD1497,Gadget C,Furniture,2023-05-19,Sea,7,Pending,76,40.75,3097.0,New York
+ORD1498,Widget B,Electronics,2023-12-20,Sea,2,In Transit,80,432.14,34571.2,Houston
+ORD1499,Gadget C,Apparel,2023-09-23,Sea,2,Delivered,57,358.23,20419.11,Miami
+ORD1500,Tool D,Furniture,2023-01-19,Rail,14,Cancelled,84,26.75,2247.0,Miami
+ORD1501,Widget B,Apparel,2023-04-19,Air,6,In Transit,65,62.44,4058.6,Houston
+ORD1502,Gadget C,Electronics,2023-08-12,Sea,12,Delivered,5,222.84,1114.2,Miami
+ORD1503,Widget A,Miscellaneous,2023-04-26,Rail,1,Delivered,63,90.57,5705.91,Houston
+ORD1504,Widget B,Tools,2023-04-09,Road,14,Cancelled,86,161.47,13886.42,Houston
+ORD1505,Widget A,Electronics,2023-08-26,Rail,1,Cancelled,26,160.07,4161.82,Houston
+ORD1506,Item E,Furniture,2023-11-27,Rail,7,Pending,81,126.92,10280.52,San Francisco
+ORD1507,Tool D,Apparel,2023-06-12,Air,8,In Transit,79,282.35,22305.65,New York
+ORD1508,Gadget C,Furniture,2023-12-15,Rail,4,Delivered,71,401.5,28506.5,Miami
+ORD1509,Widget A,Tools,2023-03-29,Rail,14,Pending,15,245.05,3675.75,Houston
+ORD1510,Item E,Furniture,2023-10-30,Sea,14,Cancelled,24,152.34,3656.16,Chicago
+ORD1511,Widget A,Furniture,2023-06-30,Road,9,Delivered,3,299.11,897.33,Chicago
+ORD1512,Widget B,Tools,2023-10-11,Air,8,In Transit,74,141.22,10450.28,Chicago
+ORD1513,Widget B,Electronics,2023-03-28,Rail,8,Cancelled,18,115.46,2078.28,Chicago
+ORD1514,Gadget C,Tools,2023-01-17,Sea,15,Delivered,91,425.89,38755.99,Houston
+ORD1515,Tool D,Furniture,2023-08-07,Sea,11,Cancelled,78,254.06,19816.68,Houston
+ORD1516,Widget B,Electronics,2023-05-15,Air,15,Pending,9,264.53,2380.77,New York
+ORD1517,Gadget C,Apparel,2023-08-01,Sea,5,Delivered,90,38.01,3420.9,New York
+ORD1518,Widget A,Tools,2023-02-20,Sea,9,Delivered,36,91.06,3278.16,San Francisco
+ORD1519,Item E,Furniture,2023-07-09,Road,7,Delivered,38,477.62,18149.56,Chicago
+ORD1520,Item E,Apparel,2023-08-03,Road,13,Delivered,95,222.13,21102.35,Houston
+ORD1521,Widget B,Electronics,2023-04-08,Sea,1,In Transit,56,296.88,16625.28,San Francisco
+ORD1522,Widget B,Tools,2023-02-04,Road,13,Pending,89,91.31,8126.59,New York
+ORD1523,Gadget C,Furniture,2023-08-19,Road,9,Delivered,24,57.88,1389.12,Chicago
+ORD1524,Gadget C,Miscellaneous,2023-05-01,Sea,3,Pending,46,419.29,19287.34,Chicago
+ORD1525,Tool D,Electronics,2023-05-19,Road,3,Cancelled,57,296.39,16894.23,Chicago
+ORD1526,Tool D,Electronics,2023-06-14,Rail,12,Cancelled,56,396.55,22206.8,Miami
+ORD1527,Widget A,Apparel,2023-06-07,Road,2,In Transit,44,363.28,15984.32,Miami
+ORD1528,Gadget C,Electronics,2023-09-05,Road,2,In Transit,5,241.07,1205.35,Miami
+ORD1529,Widget B,Electronics,2023-12-02,Road,14,In Transit,96,203.64,19549.44,New York
+ORD1530,Gadget C,Tools,2023-03-21,Sea,1,Pending,12,94.12,1129.44,New York
+ORD1531,Widget A,Electronics,2023-04-20,Sea,11,Delivered,54,219.9,11874.6,San Francisco
+ORD1532,Item E,Tools,2023-07-10,Sea,12,In Transit,97,325.1,31534.7,Chicago
+ORD1533,Widget B,Electronics,2023-12-08,Sea,10,Delivered,57,273.31,15578.67,Houston
+ORD1534,Widget B,Apparel,2023-12-31,Air,8,Cancelled,35,159.65,5587.75,Miami
+ORD1535,Gadget C,Furniture,2023-01-25,Road,3,In Transit,18,35.75,643.5,Houston
+ORD1536,Widget A,Tools,2023-07-27,Road,10,In Transit,18,296.71,5340.78,San Francisco
+ORD1537,Widget A,Electronics,2023-03-27,Road,3,In Transit,28,360.73,10100.44,Miami
+ORD1538,Tool D,Furniture,2023-08-18,Air,4,Delivered,58,23.39,1356.62,Houston
+ORD1539,Gadget C,Furniture,2023-05-25,Sea,8,In Transit,99,436.71,43234.29,Chicago
+ORD1540,Tool D,Tools,2023-06-16,Road,12,Delivered,96,95.53,9170.88,Houston
+ORD1541,Widget A,Apparel,2023-06-12,Sea,12,Cancelled,28,192.63,5393.64,Houston
+ORD1542,Widget B,Miscellaneous,2023-05-02,Rail,11,In Transit,17,382.06,6495.02,Houston
+ORD1543,Tool D,Tools,2023-07-28,Road,11,In Transit,59,421.58,24873.22,Chicago
+ORD1544,Tool D,Electronics,2023-07-14,Road,4,Pending,68,251.26,17085.68,Chicago
+ORD1545,Item E,Furniture,2023-07-22,Air,7,In Transit,23,435.91,10025.93,New York
+ORD1546,Widget B,Apparel,2023-12-13,Road,5,Pending,3,389.14,1167.42,San Francisco
+ORD1547,Gadget C,Tools,2023-10-07,Rail,14,Delivered,73,30.59,2233.07,Houston
+ORD1548,Widget A,Apparel,2023-04-16,Road,11,Delivered,39,344.27,13426.53,Houston
+ORD1549,Tool D,Apparel,2023-11-06,Road,11,In Transit,59,121.11,7145.49,San Francisco
+ORD1550,Tool D,Electronics,2023-05-10,Sea,2,Delivered,12,427.16,5125.92,Miami
+ORD1551,Item E,Electronics,2023-08-06,Rail,13,Cancelled,88,74.12,6522.56,Houston
+ORD1552,Widget A,Furniture,2023-01-09,Air,14,Cancelled,7,404.87,2834.09,Houston
+ORD1553,Gadget C,Tools,2023-08-01,Air,12,Cancelled,79,299.84,23687.36,San Francisco
+ORD1554,Widget B,Furniture,2023-10-03,Sea,14,In Transit,19,251.38,4776.22,Miami
+ORD1555,Tool D,Miscellaneous,2023-04-18,Air,6,Pending,74,130.29,9641.46,San Francisco
+ORD1556,Widget B,Electronics,2023-10-29,Rail,10,Pending,32,39.57,1266.24,Chicago
+ORD1557,Item E,Apparel,2023-12-04,Rail,13,Pending,2,262.06,524.12,San Francisco
+ORD1558,Widget A,Miscellaneous,2023-09-13,Rail,6,In Transit,73,422.13,30815.49,Miami
+ORD1559,Gadget C,Tools,2023-09-30,Sea,7,Pending,66,361.34,23848.44,San Francisco
+ORD1560,Item E,Electronics,2023-07-17,Air,14,In Transit,2,318.34,636.68,Houston
+ORD1561,Widget B,Furniture,2023-05-25,Rail,5,Cancelled,74,227.23,16815.02,Miami
+ORD1562,Widget B,Apparel,2023-02-25,Rail,10,Cancelled,17,287.64,4889.88,Miami
+ORD1563,Widget A,Furniture,2023-07-24,Air,4,Delivered,43,82.98,3568.14,New York
+ORD1564,Widget A,Furniture,2023-03-30,Road,10,Pending,67,146.2,9795.4,New York
+ORD1565,Widget B,Apparel,2023-01-13,Sea,12,Cancelled,99,80.24,7943.76,Houston
+ORD1566,Item E,Furniture,2023-04-04,Road,12,Pending,42,63.61,2671.62,San Francisco
+ORD1567,Gadget C,Apparel,2023-09-26,Sea,5,In Transit,24,469.4,11265.6,Houston
+ORD1568,Widget B,Miscellaneous,2023-11-11,Air,1,Delivered,36,414.13,14908.68,San Francisco
+ORD1569,Item E,Apparel,2023-03-13,Sea,5,Delivered,45,107.16,4822.2,Miami
+ORD1570,Item E,Apparel,2023-01-14,Sea,11,Delivered,74,404.27,29915.98,New York
+ORD1571,Tool D,Tools,2023-04-13,Rail,10,In Transit,26,475.49,12362.74,New York
+ORD1572,Tool D,Electronics,2023-04-20,Sea,13,Delivered,24,16.85,404.4,Miami
+ORD1573,Gadget C,Furniture,2023-04-14,Road,13,Pending,59,374.75,22110.25,Miami
+ORD1574,Widget B,Tools,2023-03-25,Sea,11,Pending,2,447.0,894.0,Miami
+ORD1575,Widget A,Miscellaneous,2023-10-28,Road,13,In Transit,40,57.26,2290.4,Miami
+ORD1576,Gadget C,Apparel,2023-08-12,Road,13,Pending,41,90.06,3692.46,Miami
+ORD1577,Widget A,Electronics,2023-01-08,Air,11,Cancelled,75,353.19,26489.25,Chicago
+ORD1578,Gadget C,Furniture,2023-06-07,Air,9,Pending,14,24.72,346.08,Chicago
+ORD1579,Widget B,Electronics,2023-09-22,Sea,5,In Transit,39,152.6,5951.4,New York
+ORD1580,Widget B,Miscellaneous,2023-10-19,Road,11,In Transit,7,286.38,2004.66,Miami
+ORD1581,Gadget C,Tools,2023-02-21,Air,13,Delivered,26,293.13,7621.38,Houston
+ORD1582,Gadget C,Miscellaneous,2023-05-28,Road,12,Pending,19,259.64,4933.16,New York
+ORD1583,Widget B,Apparel,2023-05-04,Road,5,Pending,44,232.63,10235.72,New York
+ORD1584,Item E,Furniture,2023-07-09,Rail,3,In Transit,33,342.11,11289.63,San Francisco
+ORD1585,Tool D,Furniture,2023-12-27,Rail,1,Pending,92,105.17,9675.64,San Francisco
+ORD1586,Gadget C,Tools,2023-04-10,Sea,4,In Transit,95,184.57,17534.15,Miami
+ORD1587,Item E,Tools,2023-03-04,Sea,10,Pending,22,143.84,3164.48,San Francisco
+ORD1588,Tool D,Apparel,2023-12-31,Rail,12,Cancelled,26,43.13,1121.38,Miami
+ORD1589,Tool D,Miscellaneous,2023-09-23,Rail,11,Delivered,65,192.39,12505.35,Chicago
+ORD1590,Widget B,Tools,2023-12-01,Sea,11,Delivered,17,211.03,3587.51,San Francisco
+ORD1591,Gadget C,Tools,2023-12-23,Sea,14,Cancelled,59,123.02,7258.18,San Francisco
+ORD1592,Widget B,Miscellaneous,2023-02-02,Rail,14,Delivered,71,150.16,10661.36,Chicago
+ORD1593,Widget A,Furniture,2023-11-06,Road,9,Cancelled,52,237.79,12365.08,San Francisco
+ORD1594,Gadget C,Furniture,2023-09-17,Air,11,Delivered,95,260.13,24712.35,Chicago
+ORD1595,Item E,Electronics,2023-10-31,Road,13,Pending,21,38.16,801.36,Chicago
+ORD1596,Widget A,Apparel,2023-04-16,Rail,5,Pending,52,300.31,15616.12,New York
+ORD1597,Gadget C,Furniture,2023-09-06,Road,3,In Transit,48,93.66,4495.68,New York
+ORD1598,Widget A,Apparel,2023-10-06,Air,8,In Transit,52,194.74,10126.48,Houston
+ORD1599,Item E,Electronics,2023-10-02,Road,11,In Transit,24,155.34,3728.16,Chicago
+ORD1600,Widget A,Furniture,2023-08-02,Road,15,Delivered,57,420.65,23977.05,Houston
+ORD1601,Widget B,Furniture,2023-10-22,Sea,14,Delivered,48,72.67,3488.16,New York
+ORD1602,Item E,Apparel,2023-06-09,Rail,10,Cancelled,43,61.25,2633.75,Chicago
+ORD1603,Item E,Furniture,2023-10-07,Sea,15,Pending,99,455.3,45074.7,New York
+ORD1604,Widget B,Tools,2023-06-09,Sea,14,Pending,52,131.09,6816.68,Miami
+ORD1605,Item E,Apparel,2023-09-12,Sea,14,Cancelled,10,66.59,665.9,Miami
+ORD1606,Gadget C,Miscellaneous,2023-11-04,Sea,5,Delivered,44,165.34,7274.96,Chicago
+ORD1607,Tool D,Miscellaneous,2023-07-23,Rail,4,Pending,86,376.81,32405.66,New York
+ORD1608,Item E,Electronics,2023-01-30,Rail,15,Delivered,2,300.36,600.72,Chicago
+ORD1609,Gadget C,Tools,2023-12-19,Sea,15,Cancelled,79,266.35,21041.65,Miami
+ORD1610,Widget A,Furniture,2023-01-16,Road,10,Cancelled,50,140.23,7011.5,Chicago
+ORD1611,Widget B,Tools,2023-01-24,Road,10,Cancelled,33,172.42,5689.86,Miami
+ORD1612,Widget B,Apparel,2023-12-21,Sea,14,Delivered,41,66.09,2709.69,Miami
+ORD1613,Gadget C,Furniture,2023-06-07,Sea,3,Delivered,3,144.86,434.58,Chicago
+ORD1614,Tool D,Furniture,2023-03-09,Sea,2,Delivered,15,63.75,956.25,San Francisco
+ORD1615,Item E,Apparel,2023-10-13,Road,8,In Transit,94,51.63,4853.22,New York
+ORD1616,Tool D,Tools,2023-07-04,Air,15,Delivered,14,351.01,4914.14,Houston
+ORD1617,Widget A,Apparel,2023-05-12,Air,9,Pending,52,67.19,3493.88,Miami
+ORD1618,Item E,Furniture,2023-11-23,Air,4,Cancelled,32,494.41,15821.12,San Francisco
+ORD1619,Tool D,Electronics,2023-12-04,Rail,6,Pending,18,400.67,7212.06,New York
+ORD1620,Widget A,Miscellaneous,2023-02-10,Sea,12,Delivered,13,476.99,6200.87,San Francisco
+ORD1621,Tool D,Miscellaneous,2023-02-01,Air,9,Cancelled,32,407.13,13028.16,Miami
+ORD1622,Gadget C,Miscellaneous,2023-03-14,Sea,8,In Transit,83,80.98,6721.34,San Francisco
+ORD1623,Gadget C,Miscellaneous,2023-09-15,Air,4,Delivered,25,493.56,12339.0,New York
+ORD1624,Tool D,Apparel,2023-08-17,Rail,5,Delivered,2,22.97,45.94,Chicago
+ORD1625,Gadget C,Apparel,2023-04-25,Sea,2,Cancelled,17,57.92,984.64,Chicago
+ORD1626,Gadget C,Apparel,2023-01-09,Road,13,Cancelled,55,24.5,1347.5,Houston
+ORD1627,Widget A,Furniture,2023-07-09,Road,4,In Transit,1,287.13,287.13,New York
+ORD1628,Item E,Tools,2023-09-21,Sea,2,Pending,49,107.44,5264.56,Miami
+ORD1629,Item E,Tools,2023-09-07,Sea,11,In Transit,52,368.04,19138.08,Chicago
+ORD1630,Tool D,Electronics,2023-07-05,Rail,10,Delivered,53,281.7,14930.1,Chicago
+ORD1631,Widget A,Apparel,2023-09-21,Road,10,Cancelled,31,52.74,1634.94,San Francisco
+ORD1632,Gadget C,Furniture,2023-01-02,Rail,10,In Transit,65,242.88,15787.2,San Francisco
+ORD1633,Widget B,Furniture,2023-11-11,Air,13,In Transit,97,437.54,42441.38,Miami
+ORD1634,Item E,Apparel,2023-11-18,Sea,7,Delivered,23,17.27,397.21,Miami
+ORD1635,Item E,Tools,2023-08-01,Air,11,Pending,57,305.74,17427.18,San Francisco
+ORD1636,Gadget C,Apparel,2023-11-01,Sea,2,Cancelled,59,16.16,953.44,Houston
+ORD1637,Widget A,Furniture,2023-04-25,Air,2,Delivered,19,88.58,1683.02,Houston
+ORD1638,Tool D,Miscellaneous,2023-01-20,Sea,10,Delivered,59,73.65,4345.35,Miami
+ORD1639,Widget A,Furniture,2023-03-13,Sea,12,Cancelled,95,163.56,15538.2,Miami
+ORD1640,Item E,Tools,2023-12-07,Sea,13,Cancelled,99,45.27,4481.73,San Francisco
+ORD1641,Widget A,Apparel,2023-12-28,Rail,5,In Transit,77,487.02,37500.54,Houston
+ORD1642,Tool D,Apparel,2023-06-26,Sea,9,Cancelled,35,256.37,8972.95,Chicago
+ORD1643,Widget A,Furniture,2023-02-24,Sea,7,Cancelled,29,223.72,6487.88,Houston
+ORD1644,Gadget C,Tools,2023-10-09,Rail,8,In Transit,2,191.67,383.34,San Francisco
+ORD1645,Widget B,Electronics,2023-03-31,Road,10,Cancelled,30,201.36,6040.8,San Francisco
+ORD1646,Widget B,Furniture,2023-05-02,Road,10,Delivered,10,324.35,3243.5,San Francisco
+ORD1647,Widget B,Furniture,2023-08-31,Sea,9,In Transit,84,311.51,26166.84,Houston
+ORD1648,Tool D,Apparel,2023-02-13,Road,3,Cancelled,54,201.16,10862.64,Houston
+ORD1649,Item E,Furniture,2023-05-07,Sea,14,Cancelled,75,435.92,32694.0,Houston
+ORD1650,Tool D,Tools,2023-05-16,Rail,9,Cancelled,56,298.94,16740.64,Chicago
+ORD1651,Gadget C,Miscellaneous,2023-11-01,Sea,1,Pending,69,260.12,17948.28,Miami
+ORD1652,Widget A,Tools,2023-04-16,Air,8,Pending,96,98.29,9435.84,San Francisco
+ORD1653,Tool D,Apparel,2023-06-12,Air,9,Delivered,99,206.78,20471.22,New York
+ORD1654,Item E,Tools,2023-08-22,Sea,12,In Transit,59,200.54,11831.86,Miami
+ORD1655,Widget A,Apparel,2023-11-07,Road,7,In Transit,93,379.21,35266.53,New York
+ORD1656,Item E,Tools,2023-03-12,Sea,11,In Transit,22,431.64,9496.08,Miami
+ORD1657,Item E,Furniture,2023-08-30,Sea,4,Pending,97,179.61,17422.17,New York
+ORD1658,Gadget C,Furniture,2023-07-18,Sea,14,Cancelled,63,412.46,25984.98,New York
+ORD1659,Widget B,Miscellaneous,2023-12-24,Air,1,Cancelled,88,468.58,41235.04,San Francisco
+ORD1660,Widget B,Tools,2023-12-22,Road,2,Cancelled,100,388.82,38882.0,San Francisco
+ORD1661,Widget A,Electronics,2023-08-10,Sea,6,Cancelled,51,380.82,19421.82,Miami
+ORD1662,Gadget C,Electronics,2023-05-26,Road,11,In Transit,19,417.98,7941.62,Chicago
+ORD1663,Item E,Electronics,2023-12-17,Sea,14,Pending,25,210.07,5251.75,Miami
+ORD1664,Widget A,Miscellaneous,2023-03-22,Road,1,In Transit,17,191.94,3262.98,Houston
+ORD1665,Tool D,Tools,2023-10-25,Air,14,Cancelled,14,455.58,6378.12,San Francisco
+ORD1666,Tool D,Tools,2023-02-01,Sea,13,Pending,96,206.91,19863.36,Miami
+ORD1667,Gadget C,Apparel,2023-09-28,Rail,2,Cancelled,25,274.91,6872.75,Chicago
+ORD1668,Widget B,Electronics,2023-11-15,Road,7,Delivered,73,149.46,10910.58,Houston
+ORD1669,Gadget C,Tools,2023-12-04,Sea,3,Delivered,91,263.71,23997.61,Miami
+ORD1670,Widget B,Miscellaneous,2023-02-21,Air,4,Delivered,84,118.31,9938.04,Chicago
+ORD1671,Widget A,Miscellaneous,2023-01-22,Air,1,Pending,27,260.0,7020.0,Chicago
+ORD1672,Gadget C,Electronics,2023-05-18,Rail,1,In Transit,52,453.25,23569.0,San Francisco
+ORD1673,Widget A,Furniture,2023-06-27,Rail,2,Delivered,43,228.75,9836.25,New York
+ORD1674,Item E,Miscellaneous,2023-09-24,Road,11,Delivered,96,210.55,20212.8,New York
+ORD1675,Gadget C,Miscellaneous,2023-10-23,Sea,9,Delivered,59,202.1,11923.9,Houston
+ORD1676,Gadget C,Miscellaneous,2023-12-25,Air,10,Delivered,9,208.86,1879.74,Houston
+ORD1677,Tool D,Apparel,2023-12-01,Sea,4,In Transit,85,111.96,9516.6,San Francisco
+ORD1678,Item E,Electronics,2023-11-16,Sea,15,In Transit,61,495.87,30248.07,New York
+ORD1679,Gadget C,Apparel,2023-03-02,Sea,2,Delivered,58,282.17,16365.86,Houston
+ORD1680,Item E,Apparel,2023-05-05,Sea,2,Pending,75,411.7,30877.5,San Francisco
+ORD1681,Gadget C,Electronics,2023-07-23,Air,2,Delivered,4,272.99,1091.96,San Francisco
+ORD1682,Item E,Tools,2023-10-17,Rail,7,Cancelled,56,307.28,17207.68,Chicago
+ORD1683,Tool D,Electronics,2023-06-17,Rail,9,In Transit,2,239.4,478.8,New York
+ORD1684,Item E,Apparel,2023-06-06,Road,7,Delivered,83,495.11,41094.13,Miami
+ORD1685,Gadget C,Furniture,2023-08-05,Road,6,Pending,66,155.36,10253.76,San Francisco
+ORD1686,Widget B,Apparel,2023-08-02,Air,12,Delivered,82,352.87,28935.34,Chicago
+ORD1687,Item E,Miscellaneous,2023-09-03,Air,13,Pending,58,445.99,25867.42,New York
+ORD1688,Item E,Electronics,2023-05-20,Road,10,Delivered,39,375.88,14659.32,San Francisco
+ORD1689,Gadget C,Miscellaneous,2023-06-03,Road,14,Cancelled,80,93.7,7496.0,Houston
+ORD1690,Tool D,Furniture,2023-10-12,Sea,13,In Transit,6,135.21,811.26,Chicago
+ORD1691,Gadget C,Electronics,2023-04-12,Rail,6,Delivered,9,131.6,1184.4,San Francisco
+ORD1692,Gadget C,Furniture,2023-10-05,Air,2,Delivered,87,337.28,29343.36,Chicago
+ORD1693,Tool D,Tools,2023-09-30,Sea,10,Cancelled,36,185.89,6692.04,Houston
+ORD1694,Widget A,Miscellaneous,2023-06-10,Sea,15,In Transit,25,179.06,4476.5,Houston
+ORD1695,Widget A,Apparel,2023-08-23,Road,5,Delivered,23,156.91,3608.93,Miami
+ORD1696,Widget A,Furniture,2023-05-24,Air,13,Cancelled,71,438.55,31137.05,New York
+ORD1697,Tool D,Tools,2023-07-18,Road,11,Delivered,31,229.88,7126.28,Houston
+ORD1698,Item E,Electronics,2023-02-13,Road,5,Delivered,79,396.78,31345.62,Chicago
+ORD1699,Item E,Miscellaneous,2023-11-20,Road,4,Delivered,27,491.37,13266.99,New York
+ORD1700,Item E,Tools,2023-05-18,Air,3,Pending,53,252.77,13396.81,Chicago
+ORD1701,Gadget C,Electronics,2023-11-03,Rail,3,In Transit,55,152.85,8406.75,New York
+ORD1702,Widget A,Apparel,2023-04-17,Rail,6,In Transit,80,317.19,25375.2,Miami
+ORD1703,Tool D,Miscellaneous,2023-01-02,Road,13,Cancelled,91,355.65,32364.15,New York
+ORD1704,Item E,Apparel,2023-06-14,Air,12,Delivered,62,240.84,14932.08,New York
+ORD1705,Widget A,Electronics,2023-09-22,Rail,7,In Transit,26,418.68,10885.68,Chicago
+ORD1706,Widget B,Furniture,2023-08-20,Sea,8,Cancelled,69,58.76,4054.44,Miami
+ORD1707,Widget B,Apparel,2023-03-13,Air,9,Pending,60,358.38,21502.8,Houston
+ORD1708,Item E,Apparel,2023-08-21,Sea,15,Delivered,28,105.08,2942.24,Chicago
+ORD1709,Gadget C,Miscellaneous,2023-01-25,Sea,12,Cancelled,4,330.44,1321.76,Chicago
+ORD1710,Widget A,Miscellaneous,2023-11-15,Sea,14,Pending,11,286.57,3152.27,New York
+ORD1711,Tool D,Electronics,2023-09-10,Road,14,In Transit,36,315.72,11365.92,New York
+ORD1712,Item E,Electronics,2023-10-14,Road,8,Pending,98,161.27,15804.46,Miami
+ORD1713,Item E,Tools,2023-08-16,Road,8,Cancelled,86,148.37,12759.82,Houston
+ORD1714,Widget B,Apparel,2023-07-26,Road,1,Pending,19,288.01,5472.19,Miami
+ORD1715,Widget B,Electronics,2023-05-19,Air,7,Delivered,62,18.72,1160.64,Miami
+ORD1716,Widget A,Miscellaneous,2023-02-12,Air,11,Cancelled,90,191.9,17271.0,Chicago
+ORD1717,Widget A,Miscellaneous,2023-08-03,Air,8,Cancelled,29,191.89,5564.81,Miami
+ORD1718,Gadget C,Tools,2023-02-03,Air,1,In Transit,89,205.63,18301.07,Miami
+ORD1719,Widget B,Electronics,2023-06-10,Sea,5,Delivered,81,82.76,6703.56,Miami
+ORD1720,Tool D,Tools,2023-07-02,Rail,1,In Transit,98,134.72,13202.56,Chicago
+ORD1721,Gadget C,Miscellaneous,2023-04-06,Road,4,In Transit,26,91.9,2389.4,Houston
+ORD1722,Tool D,Tools,2023-10-11,Rail,5,Pending,56,390.64,21875.84,Chicago
+ORD1723,Widget A,Miscellaneous,2023-01-31,Road,12,Delivered,53,255.6,13546.8,Chicago
+ORD1724,Tool D,Electronics,2023-03-29,Road,8,Pending,49,177.7,8707.3,Miami
+ORD1725,Gadget C,Apparel,2023-05-10,Road,12,Delivered,57,135.26,7709.82,New York
+ORD1726,Widget B,Miscellaneous,2023-07-25,Sea,9,Pending,93,91.67,8525.31,Houston
+ORD1727,Tool D,Furniture,2023-03-18,Air,2,Pending,97,276.47,26817.59,Chicago
+ORD1728,Item E,Apparel,2023-04-10,Road,7,Cancelled,7,65.79,460.53,San Francisco
+ORD1729,Widget A,Tools,2023-06-20,Air,14,In Transit,20,182.66,3653.2,Chicago
+ORD1730,Widget B,Electronics,2023-05-21,Rail,6,In Transit,12,88.12,1057.44,San Francisco
+ORD1731,Widget B,Apparel,2023-05-12,Sea,15,Cancelled,45,168.92,7601.4,San Francisco
+ORD1732,Tool D,Tools,2023-05-28,Air,4,Pending,96,468.85,45009.6,Miami
+ORD1733,Widget A,Apparel,2023-04-14,Road,2,Cancelled,92,396.55,36482.6,Miami
+ORD1734,Widget B,Apparel,2023-12-17,Rail,12,Cancelled,25,491.73,12293.25,Miami
+ORD1735,Widget B,Miscellaneous,2023-01-06,Road,12,Delivered,8,57.23,457.84,New York
+ORD1736,Tool D,Tools,2023-05-30,Air,13,Cancelled,23,98.38,2262.74,Chicago
+ORD1737,Widget B,Tools,2023-05-08,Rail,8,Cancelled,71,63.29,4493.59,San Francisco
+ORD1738,Tool D,Electronics,2023-06-13,Road,1,Pending,76,372.33,28297.08,Chicago
+ORD1739,Tool D,Apparel,2023-01-08,Sea,2,Delivered,82,232.44,19060.08,Miami
+ORD1740,Item E,Furniture,2023-12-02,Rail,11,Pending,61,318.61,19435.21,Chicago
+ORD1741,Tool D,Tools,2023-08-30,Rail,12,In Transit,16,34.73,555.68,New York
+ORD1742,Widget A,Tools,2023-05-21,Road,9,In Transit,79,264.15,20867.85,Chicago
+ORD1743,Widget A,Miscellaneous,2023-08-12,Sea,9,Delivered,58,77.64,4503.12,San Francisco
+ORD1744,Widget B,Furniture,2023-09-20,Air,13,Cancelled,40,61.03,2441.2,Chicago
+ORD1745,Item E,Miscellaneous,2023-12-15,Sea,10,In Transit,41,372.61,15277.01,Houston
+ORD1746,Tool D,Electronics,2023-10-12,Air,13,Pending,51,441.2,22501.2,New York
+ORD1747,Tool D,Furniture,2023-03-15,Air,15,Cancelled,8,276.55,2212.4,San Francisco
+ORD1748,Widget A,Furniture,2023-07-10,Sea,12,Delivered,56,191.48,10722.88,New York
+ORD1749,Widget A,Apparel,2023-02-16,Road,8,Delivered,100,425.4,42540.0,Houston
+ORD1750,Widget B,Tools,2023-03-30,Road,2,Cancelled,20,299.85,5997.0,New York
+ORD1751,Widget B,Furniture,2023-11-11,Sea,15,In Transit,99,366.37,36270.63,New York
+ORD1752,Tool D,Miscellaneous,2023-03-12,Road,2,Delivered,21,85.97,1805.37,Chicago
+ORD1753,Widget B,Furniture,2023-05-09,Sea,7,Cancelled,33,394.69,13024.77,Chicago
+ORD1754,Item E,Tools,2023-04-23,Air,10,Cancelled,50,354.75,17737.5,Miami
+ORD1755,Gadget C,Apparel,2023-08-10,Sea,2,Pending,85,450.62,38302.7,San Francisco
+ORD1756,Gadget C,Miscellaneous,2023-08-20,Sea,15,Cancelled,41,487.16,19973.56,Houston
+ORD1757,Tool D,Apparel,2023-07-17,Air,13,Delivered,19,196.15,3726.85,Miami
+ORD1758,Gadget C,Electronics,2023-06-05,Rail,5,Pending,81,203.23,16461.63,New York
+ORD1759,Gadget C,Apparel,2023-07-12,Sea,1,Delivered,49,350.61,17179.89,Miami
+ORD1760,Gadget C,Miscellaneous,2023-09-25,Air,6,Delivered,93,384.08,35719.44,New York
+ORD1761,Widget B,Apparel,2023-08-22,Sea,1,In Transit,65,91.86,5970.9,Chicago
+ORD1762,Tool D,Miscellaneous,2023-09-02,Road,10,Cancelled,21,165.95,3484.95,San Francisco
+ORD1763,Tool D,Apparel,2023-12-15,Air,9,Pending,31,392.66,12172.46,New York
+ORD1764,Item E,Tools,2023-05-04,Road,2,In Transit,68,306.12,20816.16,Chicago
+ORD1765,Tool D,Miscellaneous,2023-11-12,Sea,4,Cancelled,14,222.26,3111.64,Chicago
+ORD1766,Tool D,Tools,2023-03-23,Sea,7,In Transit,86,188.86,16241.96,Houston
+ORD1767,Tool D,Tools,2023-10-31,Air,3,Pending,66,404.96,26727.36,Miami
+ORD1768,Widget A,Miscellaneous,2023-10-31,Road,4,Delivered,34,247.16,8403.44,Chicago
+ORD1769,Widget B,Electronics,2023-11-16,Road,8,Cancelled,46,92.68,4263.28,San Francisco
+ORD1770,Item E,Tools,2023-08-30,Rail,11,Pending,66,424.72,28031.52,Miami
+ORD1771,Widget A,Electronics,2023-06-04,Air,1,In Transit,52,363.19,18885.88,Miami
+ORD1772,Item E,Tools,2023-01-15,Rail,7,Delivered,52,81.89,4258.28,Chicago
+ORD1773,Widget B,Furniture,2023-12-17,Sea,4,In Transit,87,443.87,38616.69,New York
+ORD1774,Item E,Tools,2023-11-27,Rail,11,In Transit,26,426.98,11101.48,Houston
+ORD1775,Item E,Electronics,2023-06-09,Sea,12,Pending,62,444.27,27544.74,Miami
+ORD1776,Tool D,Miscellaneous,2023-05-05,Air,13,In Transit,82,348.74,28596.68,New York
+ORD1777,Widget B,Furniture,2023-12-28,Air,2,Cancelled,54,252.27,13622.58,San Francisco
+ORD1778,Gadget C,Apparel,2023-07-13,Road,1,Cancelled,68,143.41,9751.88,New York
+ORD1779,Widget A,Electronics,2023-02-06,Air,3,In Transit,64,397.86,25463.04,Houston
+ORD1780,Item E,Electronics,2023-04-06,Air,6,In Transit,87,169.68,14762.16,Chicago
+ORD1781,Widget A,Electronics,2023-02-11,Road,12,In Transit,22,242.11,5326.42,Chicago
+ORD1782,Widget A,Miscellaneous,2023-12-09,Road,11,Delivered,99,213.94,21180.06,New York
+ORD1783,Widget A,Electronics,2023-11-07,Sea,10,In Transit,47,38.39,1804.33,San Francisco
+ORD1784,Widget B,Furniture,2023-01-17,Road,13,Cancelled,89,372.65,33165.85,New York
+ORD1785,Widget A,Apparel,2023-07-27,Rail,12,Delivered,43,238.33,10248.19,San Francisco
+ORD1786,Gadget C,Apparel,2023-04-06,Air,15,In Transit,77,61.57,4740.89,Miami
+ORD1787,Widget A,Tools,2023-04-11,Air,11,Pending,55,299.73,16485.15,Houston
+ORD1788,Gadget C,Furniture,2023-01-24,Air,9,Cancelled,27,494.02,13338.54,San Francisco
+ORD1789,Tool D,Miscellaneous,2023-08-05,Air,10,Cancelled,12,19.38,232.56,San Francisco
+ORD1790,Widget B,Miscellaneous,2023-04-06,Sea,12,Pending,38,65.3,2481.4,Miami
+ORD1791,Widget B,Furniture,2023-11-11,Air,7,Cancelled,76,351.84,26739.84,Chicago
+ORD1792,Widget B,Miscellaneous,2023-09-11,Air,3,Delivered,59,334.71,19747.89,Houston
+ORD1793,Widget A,Apparel,2023-10-13,Air,13,Delivered,14,163.43,2288.02,New York
+ORD1794,Item E,Furniture,2023-01-18,Air,3,Pending,33,193.12,6372.96,Miami
+ORD1795,Item E,Tools,2023-09-03,Air,9,Cancelled,27,499.96,13498.92,Houston
+ORD1796,Gadget C,Electronics,2023-03-18,Rail,11,Delivered,73,222.94,16274.62,Houston
+ORD1797,Gadget C,Tools,2023-07-18,Air,15,In Transit,87,188.52,16401.24,Miami
+ORD1798,Widget B,Electronics,2023-02-05,Sea,7,Pending,30,96.53,2895.9,San Francisco
+ORD1799,Item E,Electronics,2023-08-05,Rail,7,Pending,88,401.42,35324.96,Houston
+ORD1800,Item E,Tools,2023-04-25,Air,8,Delivered,30,224.23,6726.9,Houston
+ORD1801,Widget B,Tools,2023-02-15,Air,9,In Transit,72,288.31,20758.32,New York
+ORD1802,Widget A,Electronics,2023-02-27,Air,6,Delivered,35,97.7,3419.5,San Francisco
+ORD1803,Item E,Apparel,2023-07-10,Sea,15,Pending,13,298.89,3885.57,Miami
+ORD1804,Widget A,Tools,2023-07-23,Air,4,Delivered,86,465.99,40075.14,San Francisco
+ORD1805,Widget B,Miscellaneous,2023-06-03,Sea,11,Pending,33,287.07,9473.31,San Francisco
+ORD1806,Widget A,Apparel,2023-11-25,Road,14,Pending,46,230.5,10603.0,Chicago
+ORD1807,Item E,Electronics,2023-12-30,Rail,13,In Transit,74,206.04,15246.96,Miami
+ORD1808,Widget A,Tools,2023-03-06,Road,12,Delivered,63,291.74,18379.62,New York
+ORD1809,Widget A,Tools,2023-07-25,Road,9,Cancelled,85,263.15,22367.75,San Francisco
+ORD1810,Item E,Electronics,2023-01-03,Road,4,Delivered,71,106.1,7533.1,Chicago
+ORD1811,Widget A,Apparel,2023-09-26,Air,6,Delivered,60,454.25,27255.0,Houston
+ORD1812,Gadget C,Furniture,2023-10-04,Road,4,Delivered,73,177.45,12953.85,San Francisco
+ORD1813,Widget A,Tools,2023-04-22,Sea,10,Delivered,30,86.98,2609.4,San Francisco
+ORD1814,Tool D,Tools,2023-09-22,Rail,7,Pending,92,257.03,23646.76,New York
+ORD1815,Item E,Furniture,2023-09-14,Road,14,Cancelled,2,231.85,463.7,San Francisco
+ORD1816,Widget A,Electronics,2023-08-06,Rail,5,In Transit,6,367.35,2204.1,Miami
+ORD1817,Item E,Miscellaneous,2023-06-22,Sea,2,In Transit,59,373.1,22012.9,San Francisco
+ORD1818,Gadget C,Apparel,2023-02-19,Sea,6,Cancelled,64,440.62,28199.68,New York
+ORD1819,Item E,Tools,2023-09-11,Road,11,In Transit,95,479.06,45510.7,Houston
+ORD1820,Item E,Furniture,2023-03-11,Air,2,Cancelled,73,421.0,30733.0,Houston
+ORD1821,Widget B,Apparel,2023-04-05,Sea,15,Delivered,43,275.08,11828.44,Chicago
+ORD1822,Item E,Miscellaneous,2023-08-13,Road,5,In Transit,62,280.16,17369.92,Chicago
+ORD1823,Item E,Tools,2023-12-18,Rail,11,Cancelled,16,328.78,5260.48,Chicago
+ORD1824,Widget B,Apparel,2023-05-30,Air,2,Cancelled,5,298.38,1491.9,Chicago
+ORD1825,Widget A,Tools,2023-07-31,Air,10,Cancelled,31,433.23,13430.13,Chicago
+ORD1826,Widget A,Miscellaneous,2023-09-06,Road,11,Cancelled,75,382.37,28677.75,Houston
+ORD1827,Tool D,Electronics,2023-01-26,Rail,9,Delivered,66,484.64,31986.24,New York
+ORD1828,Item E,Tools,2023-10-10,Sea,12,Delivered,8,306.19,2449.52,Miami
+ORD1829,Tool D,Electronics,2023-09-22,Rail,2,Delivered,5,87.58,437.9,New York
+ORD1830,Widget B,Miscellaneous,2023-07-05,Air,9,Cancelled,85,201.29,17109.65,New York
+ORD1831,Widget A,Furniture,2023-11-30,Rail,10,Pending,90,492.14,44292.6,New York
+ORD1832,Widget A,Tools,2023-11-13,Rail,3,Delivered,68,227.85,15493.8,Chicago
+ORD1833,Gadget C,Furniture,2023-12-02,Air,4,In Transit,70,184.75,12932.5,New York
+ORD1834,Tool D,Miscellaneous,2023-09-14,Road,14,Pending,67,327.82,21963.94,New York
+ORD1835,Tool D,Furniture,2023-04-05,Sea,15,In Transit,73,55.57,4056.61,New York
+ORD1836,Item E,Tools,2023-06-16,Sea,15,In Transit,22,175.15,3853.3,New York
+ORD1837,Tool D,Tools,2023-05-16,Road,9,Cancelled,87,468.77,40782.99,Houston
+ORD1838,Widget A,Electronics,2023-12-03,Sea,14,Delivered,20,492.15,9843.0,Houston
+ORD1839,Widget B,Miscellaneous,2023-01-04,Air,12,Cancelled,57,263.73,15032.61,Chicago
+ORD1840,Item E,Electronics,2023-07-08,Air,6,Pending,29,344.72,9996.88,Houston
+ORD1841,Tool D,Miscellaneous,2023-11-27,Sea,15,Delivered,15,370.88,5563.2,San Francisco
+ORD1842,Widget B,Electronics,2023-04-27,Road,4,Pending,11,218.42,2402.62,New York
+ORD1843,Item E,Electronics,2023-06-14,Sea,8,Cancelled,23,420.17,9663.91,New York
+ORD1844,Gadget C,Apparel,2023-04-19,Sea,5,Cancelled,6,140.9,845.4,San Francisco
+ORD1845,Item E,Tools,2023-06-07,Road,9,Delivered,60,473.96,28437.6,Miami
+ORD1846,Gadget C,Apparel,2023-01-20,Rail,3,In Transit,19,369.78,7025.82,San Francisco
+ORD1847,Widget B,Furniture,2023-03-17,Rail,9,Cancelled,41,237.08,9720.28,Houston
+ORD1848,Item E,Furniture,2023-08-12,Road,1,Cancelled,92,264.49,24333.08,Chicago
+ORD1849,Gadget C,Electronics,2023-04-11,Air,8,Delivered,29,214.31,6214.99,New York
+ORD1850,Gadget C,Tools,2023-12-25,Air,8,In Transit,33,325.95,10756.35,San Francisco
+ORD1851,Item E,Tools,2023-05-13,Rail,3,Delivered,27,342.96,9259.92,San Francisco
+ORD1852,Item E,Electronics,2023-07-09,Rail,15,Pending,87,239.57,20842.59,Miami
+ORD1853,Item E,Miscellaneous,2023-07-02,Road,5,Delivered,94,448.91,42197.54,Chicago
+ORD1854,Tool D,Electronics,2023-08-09,Air,7,Cancelled,42,361.21,15170.82,Chicago
+ORD1855,Item E,Furniture,2023-09-10,Air,9,Cancelled,69,283.94,19591.86,Chicago
+ORD1856,Widget B,Apparel,2023-02-17,Air,1,Delivered,90,14.8,1332.0,San Francisco
+ORD1857,Widget B,Electronics,2023-11-13,Air,9,Pending,9,140.96,1268.64,San Francisco
+ORD1858,Widget A,Apparel,2023-12-19,Sea,3,In Transit,84,308.98,25954.32,Chicago
+ORD1859,Item E,Miscellaneous,2023-09-11,Sea,1,Cancelled,59,390.95,23066.05,San Francisco
+ORD1860,Widget B,Tools,2023-05-26,Rail,14,Delivered,97,244.9,23755.3,Chicago
+ORD1861,Widget A,Tools,2023-08-23,Road,15,In Transit,53,133.03,7050.59,Houston
+ORD1862,Tool D,Apparel,2023-01-13,Air,5,Delivered,49,35.59,1743.91,Miami
+ORD1863,Gadget C,Tools,2023-02-18,Road,7,Delivered,78,441.64,34447.92,Chicago
+ORD1864,Item E,Furniture,2023-03-31,Rail,8,Delivered,36,32.16,1157.76,New York
+ORD1865,Widget A,Furniture,2023-06-11,Air,4,Cancelled,4,470.91,1883.64,San Francisco
+ORD1866,Gadget C,Electronics,2023-04-11,Rail,10,Delivered,42,192.2,8072.4,New York
+ORD1867,Gadget C,Miscellaneous,2023-12-18,Air,5,Delivered,44,426.05,18746.2,San Francisco
+ORD1868,Tool D,Tools,2023-01-19,Road,14,Cancelled,40,107.43,4297.2,San Francisco
+ORD1869,Tool D,Tools,2023-09-22,Air,11,In Transit,74,323.1,23909.4,New York
+ORD1870,Item E,Miscellaneous,2023-01-26,Rail,5,Delivered,16,13.38,214.08,New York
+ORD1871,Widget A,Electronics,2023-01-22,Road,9,In Transit,65,189.8,12337.0,San Francisco
+ORD1872,Gadget C,Furniture,2023-01-19,Road,8,Pending,21,490.78,10306.38,Houston
+ORD1873,Widget A,Furniture,2023-01-24,Rail,1,Cancelled,25,61.02,1525.5,San Francisco
+ORD1874,Widget B,Electronics,2023-02-09,Air,1,Pending,99,294.6,29165.4,Houston
+ORD1875,Item E,Electronics,2023-10-27,Air,1,Delivered,51,324.22,16535.22,San Francisco
+ORD1876,Tool D,Apparel,2023-10-30,Sea,3,Pending,97,148.08,14363.76,Chicago
+ORD1877,Widget B,Miscellaneous,2023-08-19,Sea,8,Cancelled,61,362.36,22103.96,Miami
+ORD1878,Gadget C,Tools,2023-07-31,Rail,7,Delivered,73,187.74,13705.02,Houston
+ORD1879,Widget B,Tools,2023-09-05,Road,10,Pending,65,107.69,6999.85,San Francisco
+ORD1880,Widget B,Tools,2023-05-30,Road,15,In Transit,49,322.83,15818.67,Chicago
+ORD1881,Widget A,Apparel,2023-03-26,Sea,13,Delivered,43,142.27,6117.61,San Francisco
+ORD1882,Widget B,Miscellaneous,2023-07-20,Sea,15,Delivered,6,443.96,2663.76,Chicago
+ORD1883,Gadget C,Electronics,2023-06-05,Sea,2,In Transit,85,302.17,25684.45,Miami
+ORD1884,Gadget C,Tools,2023-12-13,Road,5,Cancelled,57,188.65,10753.05,New York
+ORD1885,Widget B,Electronics,2023-01-05,Rail,1,Cancelled,30,456.85,13705.5,New York
+ORD1886,Tool D,Electronics,2023-05-27,Air,8,In Transit,32,372.22,11911.04,Miami
+ORD1887,Widget A,Apparel,2023-05-19,Sea,4,Delivered,46,334.73,15397.58,Chicago
+ORD1888,Tool D,Furniture,2023-12-30,Rail,3,Cancelled,36,70.91,2552.76,New York
+ORD1889,Tool D,Apparel,2023-07-18,Air,6,In Transit,41,64.13,2629.33,Chicago
+ORD1890,Widget A,Miscellaneous,2023-07-01,Sea,3,Delivered,68,444.05,30195.4,Miami
+ORD1891,Widget B,Furniture,2023-07-02,Rail,9,Cancelled,53,386.0,20458.0,Chicago
+ORD1892,Gadget C,Furniture,2023-07-10,Sea,4,Pending,58,443.73,25736.34,Houston
+ORD1893,Tool D,Furniture,2023-10-11,Rail,3,Cancelled,87,261.37,22739.19,New York
+ORD1894,Tool D,Furniture,2023-07-01,Air,6,Delivered,96,412.2,39571.2,Houston
+ORD1895,Gadget C,Tools,2023-09-06,Sea,1,Delivered,94,78.1,7341.4,Houston
+ORD1896,Widget B,Tools,2023-12-31,Air,13,In Transit,83,197.13,16361.79,Houston
+ORD1897,Widget B,Furniture,2023-08-20,Sea,9,Cancelled,95,374.59,35586.05,Miami
+ORD1898,Item E,Electronics,2023-10-30,Sea,12,Pending,79,375.11,29633.69,Chicago
+ORD1899,Tool D,Miscellaneous,2023-01-02,Air,1,Pending,46,67.98,3127.08,Chicago
+ORD1900,Widget B,Miscellaneous,2023-03-28,Sea,1,Cancelled,97,433.42,42041.74,New York
+ORD1901,Item E,Tools,2023-01-31,Sea,12,Pending,24,183.86,4412.64,San Francisco
+ORD1902,Tool D,Apparel,2023-11-05,Road,12,Delivered,94,147.09,13826.46,New York
+ORD1903,Item E,Furniture,2023-12-31,Road,11,Pending,70,243.83,17068.1,Houston
+ORD1904,Gadget C,Miscellaneous,2023-08-11,Rail,9,In Transit,21,28.61,600.81,Houston
+ORD1905,Tool D,Electronics,2023-09-22,Sea,1,Delivered,94,100.24,9422.56,Chicago
+ORD1906,Widget A,Electronics,2023-03-30,Road,11,Delivered,41,224.86,9219.26,San Francisco
+ORD1907,Gadget C,Tools,2023-08-16,Road,6,Delivered,23,280.25,6445.75,Miami
+ORD1908,Widget A,Miscellaneous,2023-10-08,Air,6,In Transit,78,369.04,28785.12,Miami
+ORD1909,Widget B,Miscellaneous,2023-11-22,Rail,1,Pending,70,109.89,7692.3,Chicago
+ORD1910,Widget B,Tools,2023-05-01,Road,5,Cancelled,37,33.48,1238.76,Miami
+ORD1911,Widget A,Furniture,2023-03-03,Air,7,Cancelled,88,160.26,14102.88,San Francisco
+ORD1912,Tool D,Tools,2023-03-14,Air,9,Delivered,56,35.37,1980.72,New York
+ORD1913,Item E,Tools,2023-10-24,Air,7,Pending,52,201.63,10484.76,Miami
+ORD1914,Gadget C,Tools,2023-03-16,Air,3,Cancelled,34,127.76,4343.84,Miami
+ORD1915,Item E,Miscellaneous,2023-09-05,Sea,5,Delivered,20,345.17,6903.4,New York
+ORD1916,Widget A,Miscellaneous,2023-12-14,Road,13,Pending,45,46.55,2094.75,Chicago
+ORD1917,Gadget C,Electronics,2023-05-06,Sea,2,In Transit,91,326.59,29719.69,New York
+ORD1918,Tool D,Apparel,2023-09-21,Road,8,Cancelled,16,167.95,2687.2,Houston
+ORD1919,Gadget C,Furniture,2023-12-05,Rail,15,Delivered,38,146.83,5579.54,San Francisco
+ORD1920,Gadget C,Furniture,2023-03-21,Sea,7,In Transit,8,402.8,3222.4,New York
+ORD1921,Tool D,Apparel,2023-10-04,Air,4,In Transit,13,448.14,5825.82,Houston
+ORD1922,Gadget C,Apparel,2023-01-14,Road,3,Delivered,78,421.09,32845.02,Chicago
+ORD1923,Gadget C,Electronics,2023-04-03,Rail,7,In Transit,27,213.72,5770.44,Chicago
+ORD1924,Widget A,Furniture,2023-08-23,Road,12,Delivered,87,232.06,20189.22,San Francisco
+ORD1925,Gadget C,Furniture,2023-08-26,Air,7,Cancelled,14,146.73,2054.22,Houston
+ORD1926,Widget B,Apparel,2023-12-03,Air,7,Delivered,55,366.69,20167.95,Chicago
+ORD1927,Item E,Apparel,2023-12-31,Sea,8,In Transit,73,488.34,35648.82,New York
+ORD1928,Tool D,Tools,2023-10-23,Sea,15,Pending,71,381.38,27077.98,Chicago
+ORD1929,Widget B,Apparel,2023-01-04,Road,6,Cancelled,11,476.0,5236.0,Chicago
+ORD1930,Gadget C,Electronics,2023-08-03,Air,13,Cancelled,42,113.75,4777.5,Chicago
+ORD1931,Tool D,Apparel,2023-07-05,Air,13,Pending,37,58.19,2153.03,New York
+ORD1932,Item E,Miscellaneous,2023-12-09,Air,4,Pending,38,213.64,8118.32,Houston
+ORD1933,Widget B,Furniture,2023-02-10,Air,11,Cancelled,32,214.99,6879.68,New York
+ORD1934,Tool D,Furniture,2023-05-13,Air,12,In Transit,63,100.63,6339.69,Houston
+ORD1935,Tool D,Apparel,2023-08-18,Rail,9,Pending,97,484.53,46999.41,Miami
+ORD1936,Widget B,Miscellaneous,2023-09-20,Sea,12,Pending,26,248.06,6449.56,Miami
+ORD1937,Widget A,Furniture,2023-11-22,Rail,7,Delivered,25,460.79,11519.75,Miami
+ORD1938,Tool D,Electronics,2023-12-13,Air,15,Pending,15,206.28,3094.2,New York
+ORD1939,Widget B,Tools,2023-12-29,Road,2,Pending,29,69.7,2021.3,New York
+ORD1940,Tool D,Furniture,2023-11-24,Sea,1,Pending,83,483.13,40099.79,New York
+ORD1941,Widget B,Miscellaneous,2023-03-25,Road,1,Cancelled,10,403.59,4035.9,Chicago
+ORD1942,Widget A,Electronics,2023-04-20,Rail,5,Cancelled,91,125.08,11382.28,Chicago
+ORD1943,Item E,Furniture,2023-07-19,Sea,12,Delivered,85,185.03,15727.55,Chicago
+ORD1944,Widget B,Miscellaneous,2023-05-22,Road,3,Pending,91,367.83,33472.53,Chicago
+ORD1945,Item E,Tools,2023-08-07,Air,12,Cancelled,39,217.65,8488.35,Chicago
+ORD1946,Widget B,Furniture,2023-05-04,Rail,14,Delivered,58,62.85,3645.3,Houston
+ORD1947,Widget A,Tools,2023-11-06,Air,5,Cancelled,34,29.6,1006.4,New York
+ORD1948,Widget B,Furniture,2023-02-09,Air,5,Delivered,97,314.65,30521.05,Chicago
+ORD1949,Gadget C,Apparel,2023-08-29,Sea,12,Delivered,15,430.04,6450.6,San Francisco
+ORD1950,Tool D,Furniture,2023-04-12,Air,2,Delivered,79,87.76,6933.04,Houston
+ORD1951,Tool D,Miscellaneous,2023-01-22,Rail,4,Cancelled,38,420.05,15961.9,Houston
+ORD1952,Widget B,Electronics,2023-01-13,Road,12,Cancelled,6,32.05,192.3,New York
+ORD1953,Tool D,Furniture,2023-09-26,Air,11,In Transit,71,318.91,22642.61,New York
+ORD1954,Widget B,Electronics,2023-09-13,Road,6,Cancelled,69,318.53,21978.57,San Francisco
+ORD1955,Tool D,Furniture,2023-06-14,Rail,5,Cancelled,52,217.24,11296.48,San Francisco
+ORD1956,Item E,Tools,2023-10-09,Road,11,In Transit,61,127.63,7785.43,San Francisco
+ORD1957,Widget A,Miscellaneous,2023-02-03,Sea,9,Delivered,6,406.64,2439.84,Miami
+ORD1958,Widget B,Electronics,2023-03-06,Sea,12,Delivered,30,437.24,13117.2,Chicago
+ORD1959,Gadget C,Tools,2023-11-17,Road,5,In Transit,73,59.12,4315.76,San Francisco
+ORD1960,Gadget C,Apparel,2023-08-07,Road,8,Cancelled,48,163.83,7863.84,Houston
+ORD1961,Item E,Tools,2023-03-17,Road,12,Delivered,95,479.06,45510.7,New York
+ORD1962,Widget A,Electronics,2023-07-11,Air,12,Pending,48,414.85,19912.8,Miami
+ORD1963,Gadget C,Apparel,2023-01-29,Road,6,Pending,31,84.42,2617.02,Miami
+ORD1964,Tool D,Miscellaneous,2023-05-14,Road,12,In Transit,27,355.64,9602.28,Chicago
+ORD1965,Item E,Tools,2023-08-06,Rail,13,In Transit,43,179.2,7705.6,Miami
+ORD1966,Item E,Apparel,2023-10-27,Air,2,Pending,72,417.44,30055.68,Chicago
+ORD1967,Widget A,Electronics,2023-06-12,Sea,12,Pending,78,217.26,16946.28,San Francisco
+ORD1968,Widget B,Furniture,2023-02-06,Sea,13,In Transit,60,139.32,8359.2,Houston
+ORD1969,Item E,Furniture,2023-06-04,Road,1,Delivered,26,238.27,6195.02,San Francisco
+ORD1970,Item E,Tools,2023-12-04,Road,15,In Transit,40,170.65,6826.0,New York
+ORD1971,Widget A,Apparel,2023-09-03,Sea,12,Delivered,18,384.6,6922.8,San Francisco
+ORD1972,Gadget C,Furniture,2023-03-04,Road,7,In Transit,39,475.35,18538.65,Miami
+ORD1973,Widget A,Apparel,2023-12-05,Sea,8,In Transit,67,399.33,26755.11,Houston
+ORD1974,Widget A,Furniture,2023-01-14,Air,15,Delivered,18,229.28,4127.04,Chicago
+ORD1975,Widget B,Tools,2023-06-15,Rail,12,In Transit,78,315.34,24596.52,New York
+ORD1976,Widget A,Apparel,2023-03-05,Sea,13,Cancelled,34,122.1,4151.4,New York
+ORD1977,Widget B,Apparel,2023-04-03,Road,8,In Transit,8,62.83,502.64,New York
+ORD1978,Tool D,Electronics,2023-05-06,Rail,12,Pending,52,373.27,19410.04,Miami
+ORD1979,Widget B,Furniture,2023-01-05,Road,1,Cancelled,32,10.52,336.64,San Francisco
+ORD1980,Gadget C,Electronics,2023-11-23,Road,3,In Transit,83,451.27,37455.41,San Francisco
+ORD1981,Widget B,Tools,2023-10-20,Air,9,In Transit,69,55.82,3851.58,Chicago
+ORD1982,Item E,Electronics,2023-04-17,Road,15,Delivered,37,68.92,2550.04,New York
+ORD1983,Widget A,Apparel,2023-06-10,Rail,8,Cancelled,7,217.05,1519.35,San Francisco
+ORD1984,Tool D,Electronics,2023-01-09,Sea,13,Pending,37,127.69,4724.53,San Francisco
+ORD1985,Gadget C,Electronics,2023-06-02,Road,14,Cancelled,37,229.84,8504.08,San Francisco
+ORD1986,Widget A,Furniture,2023-10-24,Air,6,Delivered,38,140.5,5339.0,San Francisco
+ORD1987,Widget A,Tools,2023-08-25,Air,4,Delivered,27,375.23,10131.21,San Francisco
+ORD1988,Item E,Tools,2023-06-05,Sea,14,Cancelled,54,163.04,8804.16,San Francisco
+ORD1989,Item E,Miscellaneous,2023-08-11,Road,15,Delivered,55,153.49,8441.95,Miami
+ORD1990,Widget B,Miscellaneous,2023-07-02,Road,14,In Transit,7,208.26,1457.82,Miami
+ORD1991,Tool D,Apparel,2023-03-23,Sea,13,Delivered,65,131.48,8546.2,San Francisco
+ORD1992,Widget B,Miscellaneous,2023-05-11,Road,7,Cancelled,28,408.22,11430.16,San Francisco
+ORD1993,Tool D,Electronics,2023-07-01,Rail,7,Pending,16,383.64,6138.24,Houston
+ORD1994,Widget B,Electronics,2023-10-02,Road,8,Cancelled,17,237.84,4043.28,New York
+ORD1995,Tool D,Apparel,2023-10-10,Rail,6,In Transit,26,67.45,1753.7,Chicago
+ORD1996,Widget B,Electronics,2023-02-02,Sea,15,Pending,33,394.01,13002.33,New York
+ORD1997,Gadget C,Tools,2023-06-27,Sea,8,In Transit,86,79.42,6830.12,San Francisco
+ORD1998,Tool D,Electronics,2023-04-24,Rail,9,Pending,88,35.31,3107.28,San Francisco
+ORD1999,Gadget C,Tools,2023-02-17,Air,7,In Transit,56,239.23,13396.88,Miami
